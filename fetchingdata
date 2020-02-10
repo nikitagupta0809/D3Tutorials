@@ -1,0 +1,6 @@
+// var result = "";
+// d3.csv("https://raw.githubusercontent.com/wyfok/New_York_City_Airbnb_Open_Data/master/AB_NYC_2019.csv")
+//   .then(function(dataset) 
+//    {
+//       console.log(dataset);
+//    });
