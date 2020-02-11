@@ -1,0 +1,501 @@
+,name,country,gross,genre,year,star,runtime,rating,tomatometer_status,tomatometer_rating,tomatometer_count,audience_count,audience_top_critics_count,audience_fresh_critics_count,audience_rotten_critics_count
+2650,40 Days and 40 Nights,USA,37950822.0,Comedy,2002,Josh Hartnett,96,R,Rotten,38,136,460837.0,36,52,84
+610,Hamlet,USA,1568749.0,Drama,2000,Ethan Hawke,112,NR,Fresh,91,34,7527.0,6,31,3
+3678,Timber Falls,USA,50000.0,Horror,2007,Josh Randall,100,R,Rotten,38,8,2344.0,1,3,5
+5321,Everybody Wants Some!!,USA,3369431.0,Comedy,2016,Blake Jenner,117,R,Certified Fresh,87,229,15553.0,49,199,30
+7,Blue Velvet,USA,8551228.0,Drama,1986,Isabella Rossellini,120,R,Certified Fresh,95,73,76873.0,21,69,4
+3413,Wristcutters: A Love Story,USA,316996.0,Comedy,2006,Patrick Fugit,88,R,Fresh,67,92,32453.0,31,62,30
+4473,Flypaper,Germany,1098.0,Comedy,2011,Patrick Dempsey,87,NR,Rotten,17,18,3466.0,11,3,15
+133,Saving Grace,UK,12115757.0,Comedy,2000,Brenda Blethyn,93,R,Fresh,63,89,11521.0,25,56,33
+2890,A Mighty Wind,USA,17508936.0,Comedy,2003,Christopher Guest,91,PG-13,Certified Fresh,87,175,42547.0,42,153,22
+3605,Balls of Fury,USA,32844290.0,Comedy,2007,Dan Fogler,90,PG-13,Rotten,22,130,323994.0,33,28,102
+4548,On the Road,France,717753.0,Adventure,2012,Sam Riley,124,R,Rotten,44,151,10914.0,42,67,84
+1937,Species II,USA,19165560.0,Action,1998,Natasha Henstridge,93,R,Rotten,9,33,39253.0,2,3,30
+3142,Green Street Hooligans,USA,344095.0,Crime,2005,Elijah Wood,109,R,Rotten,47,64,219848.0,22,30,34
+2791,Open Range,USA,58331254.0,Drama,2003,Kevin Costner,139,R,Certified Fresh,79,183,51658.0,42,145,38
+4835,The East,UK,2268296.0,Adventure,2013,Brit Marling,116,PG-13,Certified Fresh,75,146,19983.0,43,110,36
+2597,The Hours,USA,41675994.0,Drama,2002,Meryl Streep,110,PG-13,Certified Fresh,80,193,85880.0,42,154,39
+3271,Junebug,USA,2678691.0,Comedy,2005,Embeth Davidtz,106,R,Certified Fresh,87,135,46856.0,35,117,18
+573,Lord of the Flies,USA,13985225.0,Adventure,1990,Balthazar Getty,90,R,Fresh,63,19,54292.0,1,12,7
+2273,The Flintstones in Viva Rock Vegas,USA,35268275.0,Comedy,2000,Mark Addy,90,PG,Rotten,25,72,44078.0,24,18,54
+2184,Wing Commander,USA,11576087.0,Action,1999,Freddie Prinze Jr.,100,PG-13,Rotten,10,50,19871.0,12,5,45
+3138,The Devil's Rejects,USA,17044981.0,Crime,2005,Sid Haig,107,R,Rotten,54,136,112285.0,33,73,63
+456,Casualties of War,USA,18671317.0,Crime,1989,Michael J. Fox,113,R,Certified Fresh,84,44,21775.0,8,37,7
+4779,The Zero Theorem,UK,219438.0,Comedy,2013,Christoph Waltz,107,R,Rotten,50,126,9648.0,30,63,63
+189,Creepshow 2,USA,14000000.0,Comedy,1987,George Kennedy,92,R,Rotten,33,21,19366.0,5,7,14
+3447,The Sentinel,USA,36280697.0,Action,2006,Michael Douglas,108,R,Rotten,45,20,2879.0,3,9,11
+2139,Gloria,USA,4155234.0,Crime,1999,Sharon Stone,108,R,Fresh,100,13,370.0,0,13,0
+297,The Naked Gun: From the Files of Police Squad!,USA,78041829.0,Comedy,1988,Leslie Nielsen,85,PG-13,Certified Fresh,87,54,176704.0,11,47,7
+3361,Black Snake Moan,USA,9396870.0,Drama,2006,Christina Ricci,116,R,Fresh,66,162,413531.0,47,107,55
+1464,The Amazing Panda Adventure,USA,7506759.0,Family,1995,Stephen Lang,100,PG,Rotten,20,10,8897.0,3,2,8
+4924,The Guest,USA,322600.0,Mystery,2014,Dan Stevens,100,R,Certified Fresh,91,114,22900.0,32,104,10
+4652,If I Were You,Canada,9222.0,Comedy,2012,Marcia Gay Harden,115,R,Rotten,13,15,845.0,9,2,13
+1664,Hercules,USA,99046791.0,Animation,1997,Tate Donovan,93,G,Certified Fresh,84,55,388724.0,15,46,9
+354,Action Jackson,USA,20257000.0,Action,1988,Carl Weathers,96,R,Rotten,15,13,11062.0,2,2,11
+1325,Ghost in the Shell,Japan,515905.0,Animation,1995,Atsuko Tanaka,83,PG-13,Rotten,43,283,39925.0,44,123,160
+3481,Priceless,France,1499127.0,Comedy,2006,Audrey Tautou,106,PG-13,Certified Fresh,81,75,24094.0,21,61,14
+1818,Masterminds,USA,17356894.0,Action,2016,Zach Galifianakis,95,PG-13,Rotten,19,16,4692.0,3,3,13
+839,Paradise,USA,18634643.0,Drama,1991,Melanie Griffith,111,PG-13,Rotten,36,11,3747.0,2,4,7
+3321,Half Nelson,USA,2694973.0,Drama,2006,Ryan Gosling,106,R,Certified Fresh,90,157,56525.0,43,142,15
+4483,The Hunger Games,USA,408010692.0,Adventure,2012,Jennifer Lawrence,142,PG-13,Certified Fresh,84,301,902294.0,54,253,48
+1105,Made in America,USA,44942695.0,Comedy,1993,Whoopi Goldberg,111,NR,Rotten,58,19,280.0,4,11,8
+342,The Lair of the White Worm,UK,1189315.0,Comedy,1988,Amanda Donohoe,93,R,Fresh,65,26,6237.0,1,17,9
+1595,Mother,USA,19119165.0,Comedy,1996,Albert Brooks,104,PG-13,Certified Fresh,90,39,6000.0,11,35,4
+1101,Untamed Heart,USA,18899204.0,Comedy,1993,Christian Slater,102,PG-13,Rotten,54,26,20428.0,4,14,12
+3001,A Very Long Engagement,France,6167817.0,Drama,2004,Audrey Tautou,133,R,Certified Fresh,78,148,65371.0,37,116,32
+655,Bad Influence,USA,12626043.0,Drama,1990,Rob Lowe,99,R,Fresh,71,17,4203.0,3,12,5
+3918,The Girl with the Dragon Tattoo,USA,102515793.0,Crime,2011,Daniel Craig,158,R,Certified Fresh,85,187,50956.0,45,159,28
+4224,I'm Still Here,USA,408719.0,Comedy,2010,Joaquin Phoenix,108,R,Rotten,53,129,20682.0,34,69,60
+4540,Bachelorette,USA,447954.0,Comedy,2012,Kirsten Dunst,87,R,Rotten,56,101,17946.0,33,57,44
+329,Poltergeist III,USA,14114488.0,Horror,1988,Heather O'Rourke,98,PG-13,Rotten,18,17,17713.0,0,3,14
+244,Nuts,USA,30950002.0,Drama,1987,Barbra Streisand,116,R,Rotten,35,23,4194.0,6,8,15
+2234,Mission to Mars,USA,60883407.0,Adventure,2000,Tim Robbins,114,PG,Rotten,25,110,53535.0,28,27,83
+746,Career Opportunities,USA,11336986.0,Comedy,1991,Frank Whaley,83,PG-13,Rotten,38,16,7100.0,5,6,10
+981,The Efficiency Expert,Australia,101307.0,Comedy,1992,Anthony Hopkins,100,PG,Fresh,67,6,994.0,1,4,2
+2644,Confessions of a Dangerous Mind,USA,16003576.0,Biography,2002,Sam Rockwell,113,R,Certified Fresh,79,164,58801.0,37,129,35
+3290,The White Countess,UK,1666262.0,Drama,2005,Ralph Fiennes,135,PG-13,Rotten,49,89,20229.0,30,44,45
+4325,Hanna,USA,40259119.0,Action,2011,Saoirse Ronan,111,PG-13,Fresh,72,225,72396.0,50,161,64
+4887,The Hobbit: The Battle of the Five Armies,New Zealand,255119788.0,Adventure,2014,Ian McKellen,144,PG-13,Rotten,59,254,214805.0,50,150,104
+642,The Two Jakes,USA,10005969.0,Crime,1990,Jack Nicholson,137,R,Fresh,68,19,6190.0,3,13,6
+965,Tokyo Decadence,Japan,277813.0,Drama,1992,Miho Nikaido,135,NC17,Fresh,60,5,1060.0,0,0,0
+4151,Valentine's Day,USA,110485654.0,Comedy,2010,Julia Roberts,125,PG-13,Rotten,18,188,287229.0,44,33,155
+3258,Bad News Bears,USA,32868349.0,Comedy,2005,Billy Bob Thornton,113,PG-13,Rotten,48,161,76676.0,46,78,83
+3754,Death Race,USA,36316032.0,Action,2008,Jason Statham,105,R,Rotten,42,158,207634.0,33,66,92
+775,Under Suspicion,UK,221295.0,Crime,1991,Liam Neeson,99,R,Rotten,25,8,1250.0,1,2,6
+1827,The End of Violence,France,283033.0,Drama,1997,Traci Lind,122,R,Rotten,29,34,2404.0,10,10,24
+2930,Mean Girls,USA,86058055.0,Comedy,2004,Lindsay Lohan,97,PG-13,Certified Fresh,84,185,32167706.0,45,155,30
+2396,The Lord of the Rings: The Fellowship of the Ring,New Zealand,315544750.0,Adventure,2001,Elijah Wood,178,PG-13,Certified Fresh,91,229,1355751.0,49,209,20
+4944,Deliver Us from Evil,USA,30577122.0,Horror,2014,Eric Bana,118,R,Rotten,28,131,26645.0,32,37,94
+871,Patriot Games,USA,83287363.0,Action,1992,Harrison Ford,117,R,Fresh,72,39,70637.0,8,28,11
+3724,Punisher: War Zone,USA,7948159.0,Action,2008,Ray Stevenson,103,R,Rotten,29,108,132270.0,28,31,77
+3716,Forgetting Sarah Marshall,USA,63172463.0,Comedy,2008,Kristen Bell,111,R,Certified Fresh,83,184,641342.0,44,153,31
+4615,The Samaritan,Canada,1744.0,Crime,2012,Samuel L. Jackson,90,R,Rotten,26,35,5351.0,18,9,26
+1677,Face/Off,USA,112225777.0,Action,1997,John Travolta,138,R,Certified Fresh,92,86,450172.0,28,79,7
+5147,Irrational Man,USA,4027764.0,Comedy,2015,Joaquin Phoenix,95,R,Rotten,46,198,6555.0,44,92,106
+815,Pure Luck,USA,22641969.0,Comedy,1991,Martin Short,96,PG,Rotten,9,11,6520.0,3,1,10
+492,The Phantom of the Opera,USA,3953745.0,Drama,1989,Robert Englund,93,R,Rotten,38,13,49302.0,0,5,8
+3810,Prom Night,USA,43869350.0,Horror,2008,Brittany Snow,88,PG-13,Rotten,7,67,269847.0,15,5,62
+4890,The Interview,USA,6105175.0,Comedy,2014,James Franco,112,R,Rotten,51,148,64190.0,34,76,72
+3568,Death at a Funeral,USA,42739347.0,Comedy,2010,Chris Rock,92,R,Rotten,42,137,102951.0,30,58,79
+1617,Unforgettable,USA,2780278.0,Drama,1996,Ray Liotta,117,R,Rotten,21,28,1558.0,5,6,22
+4917,Neighbors,USA,150157400.0,Comedy,2014,Seth Rogen,97,R,Fresh,63,8,5909.0,1,5,3
+3394,The Wicker Man,USA,23643531.0,Horror,2006,Nicolas Cage,102,PG-13,Rotten,15,107,88555.0,18,16,91
+2345,Together,Sweden,1069156.0,Comedy,2000,Lisa Lindgren,106,R,Certified Fresh,90,80,7749.0,29,72,8
+1018,Indecent Proposal,USA,106614100.0,Drama,1993,Robert Redford,117,R,Rotten,34,44,46358.0,5,15,29
+967,Love Field,USA,1949148.0,Drama,1992,Michelle Pfeiffer,105,PG-13,Rotten,40,10,1982.0,3,4,6
+3420,Date Movie,USA,48548426.0,Comedy,2006,Alyson Hannigan,83,PG-13,Rotten,7,87,513821.0,19,6,81
+2361,The Million Dollar Hotel,Germany,52526.0,Drama,2000,Jeremy Davies,122,R,Rotten,25,44,11380.0,15,11,33
+2047,Never Been Kissed,USA,55474756.0,Comedy,1999,Drew Barrymore,107,PG-13,Rotten,55,89,441074.0,29,49,40
+2822,Agent Cody Banks,USA,47811138.0,Action,2003,Frankie Muniz,102,PG,Rotten,39,103,418327.0,27,40,63
+1829,Washington Square,USA,1710693.0,Drama,1997,Jennifer Jason Leigh,115,PG,Fresh,81,31,2101.0,8,25,6
+2676,The Four Feathers,UK,18306166.0,Adventure,2002,Heath Ledger,132,PG-13,Rotten,41,150,38107.0,35,62,88
+4038,Coco Before Chanel,France,6109075.0,Biography,2009,Audrey Tautou,105,PG-13,Fresh,63,134,40115.0,45,85,49
+4085,Kick-Ass,UK,48071303.0,Action,2010,Aaron Taylor-Johnson,117,R,Certified Fresh,76,258,285351.0,51,196,62
+1475,Flirt,USA,76875.0,Drama,1995,Paul Austin,85,R,Fresh,80,10,719.0,2,8,2
+2488,O,USA,16017403.0,Drama,2001,Mekhi Phifer,95,R,Fresh,64,125,36079.0,34,80,45
+207,Ironweed,USA,7393346.0,Drama,1987,Jack Nicholson,143,R,Fresh,62,21,2809.0,8,13,8
+3051,The Woodsman,USA,40601.0,Drama,2004,Kevin Bacon,87,R,Certified Fresh,88,131,20945.0,37,115,16
+1095,The Joy Luck Club,USA,32861136.0,Drama,1993,Tamlyn Tomita,139,R,Fresh,86,36,27685.0,7,31,5
+3458,Madea's Family Reunion,USA,63257940.0,Comedy,2006,Tyler Perry,107,PG-13,Rotten,25,57,40200.0,20,14,43
+1638,Carpool,USA,3308758.0,Comedy,1996,Tom Arnold,89,PG,Rotten,13,23,8914.0,9,3,20
+3300,Man-Thing,USA,143615.0,Action,2005,Jack Thompson,105,R,Rotten,17,6,6489.0,0,1,5
+4312,I Am Number Four,USA,55100437.0,Action,2011,Alex Pettyfer,109,PG-13,Rotten,33,165,145551.0,35,54,111
+4178,Animal Kingdom,Australia,1044039.0,Crime,2010,James Frecheville,113,R,Certified Fresh,94,161,29796.0,34,152,9
+5276,Lights Out,USA,67235683.0,Horror,2016,Teresa Palmer,81,PG-13,Certified Fresh,76,173,27335.0,36,132,41
+5106,Ted 2,USA,81476385.0,Comedy,2015,Mark Wahlberg,115,R,Rotten,45,203,65173.0,45,92,111
+2060,Tarzan,USA,171091819.0,Animation,1999,Tony Goldwyn,88,G,Certified Fresh,89,105,370152.0,28,93,12
+107,True Stories,USA,2545142.0,Musical,1986,David Byrne,90,PG,Fresh,76,21,5317.0,1,16,5
+4538,Stuck in Love,USA,78950.0,Comedy,2012,Greg Kinnear,97,R,Rotten,57,44,12987.0,11,25,19
+2498,Mean Machine,UK,92770.0,Comedy,2001,Vinnie Jones,99,R,Rotten,34,56,38142.0,23,19,37
+3259,Transamerica,USA,9015303.0,Adventure,2005,Felicity Huffman,103,R,Certified Fresh,77,139,68039.0,40,107,32
+128,Armed Response,USA,1368912.0,Action,1986,David Carradine,86,R,Rotten,0,12,108.0,6,0,12
+28,The Mission,UK,17218023.0,Adventure,1986,Robert De Niro,125,PG,Fresh,64,25,38852.0,7,16,9
+2510,Black Knight,USA,33422806.0,Adventure,2001,Martin Lawrence,95,PG-13,Rotten,13,97,169129.0,29,13,84
+4487,Jack Reacher,USA,80070736.0,Action,2012,Tom Cruise,130,PG-13,Fresh,63,179,115924.0,46,113,66
+5042,San Andreas,USA,155190832.0,Action,2015,Dwayne Johnson,114,PG-13,Rotten,50,239,65961.0,48,120,119
+915,Raising Cain,USA,21370057.0,Crime,1992,John Lithgow,91,R,Rotten,57,35,9660.0,6,20,15
+4189,Jonah Hex,USA,10539414.0,Action,2010,Josh Brolin,81,PG-13,Rotten,12,150,170670.0,35,18,132
+656,Taking Care of Business,USA,20005435.0,Comedy,1990,Jim Belushi,108,R,Rotten,29,14,6295.0,7,4,10
+826,Impromptu,UK,4076211.0,Biography,1991,Judy Davis,107,PG-13,Fresh,76,17,4863.0,7,13,4
+3031,The Libertine,UK,4835065.0,Drama,2004,Johnny Depp,114,R,Rotten,33,122,70893.0,37,40,82
+1079,Stalingrad,Germany,77848.0,Drama,1993,Dominique Horwitz,134,R,Rotten,50,74,6832.0,28,37,37
+762,Rush,USA,7241350.0,Action,1991,Jason Patric,120,R,Fresh,71,28,8365.0,10,20,8
+5227,Batman v Superman: Dawn of Justice,USA,330360194.0,Action,2016,Ben Affleck,151,PG-13,Rotten,28,412,233695.0,60,116,296
+3586,Before the Devil Knows You're Dead,USA,7083025.0,Crime,2007,Philip Seymour Hoffman,117,R,Certified Fresh,88,174,86504.0,45,153,21
+1621,The Chamber,USA,14551359.0,Crime,1996,Chris O'Donnell,113,NR,Rotten,36,14,62.0,3,5,9
+899,Hoffa,USA,24276500.0,Biography,1992,Jack Nicholson,140,R,Rotten,52,25,9642.0,4,13,12
+1021,Demolition Man,USA,58055768.0,Action,1993,Sylvester Stallone,115,R,Fresh,62,39,270361.0,11,24,15
+4234,MacGruber,USA,8460995.0,Action,2010,Will Forte,90,R,Rotten,48,151,120127.0,29,73,78
+42,Running Scared,Germany,6855137.0,Action,2006,Paul Walker,122,R,Fresh,60,20,8358.0,6,12,8
+4525,Total Recall,USA,58877969.0,Action,2012,Colin Farrell,118,PG-13,Rotten,31,233,116717.0,47,72,161
+5353,Buster's Mal Heart,USA,72622.0,Drama,2016,Rami Malek,96,NR,Fresh,72,47,1993.0,15,34,13
+4737,Insidious: Chapter 2,USA,83586447.0,Horror,2013,Patrick Wilson,106,PG-13,Rotten,39,123,91722.0,30,48,75
+1149,Lost in Yonkers,USA,9285189.0,Comedy,1993,Richard Dreyfuss,114,PG,Fresh,71,17,2517.0,3,12,5
+1779,A Simple Wish,USA,8119205.0,Comedy,1997,Martin Short,89,PG,Rotten,25,16,55273.0,3,4,12
+1522,Emma,UK,22201883.0,Comedy,1996,Gwyneth Paltrow,120,PG,Certified Fresh,84,50,61185.0,15,42,8
+2523,Town & Country,USA,6719973.0,Comedy,2001,Warren Beatty,104,R,Rotten,13,93,2684.0,27,12,81
+2330,The Weight of Water,USA,102622.0,Crime,2000,Catherine McCormack,100,R,Rotten,35,65,4523.0,25,23,42
+742,Toy Soldiers,USA,15073942.0,Action,1991,Sean Astin,111,R,Rotten,36,14,39412.0,3,5,9
+4766,Snitch,USA,42930462.0,Action,2013,Dwayne Johnson,112,PG-13,Rotten,57,145,63481.0,34,82,63
+4632,The Bay,USA,30474.0,Horror,2012,Will Rogers,84,R,Certified Fresh,76,80,10168.0,27,61,19
+987,Blame It on the Bellboy,UK,3104545.0,Comedy,1992,Bronson Pinchot,78,PG-13,Rotten,19,16,3197.0,5,3,13
+3865,Waltz with Bashir,Israel,2283276.0,Animation,2008,Ari Folman,90,R,Certified Fresh,96,149,43951.0,45,143,6
+343,The Serpent and the Rainbow,USA,19595031.0,Fantasy,1988,Bill Pullman,98,R,Fresh,64,33,15383.0,7,21,12
+127,Just Between Friends,USA,6408791.0,Drama,1986,Mary Tyler Moore,110,PG-13,Rotten,33,6,1838.0,1,2,4
+479,Three Fugitives,USA,40590000.0,Action,1989,Nick Nolte,96,PG-13,Rotten,14,14,8395.0,0,2,12
+4690,World War Z,USA,202359711.0,Action,2013,Brad Pitt,116,PG-13,Fresh,66,272,304887.0,55,180,92
+553,Flatliners,USA,61490000.0,Drama,1990,Kiefer Sutherland,115,PG-13,Rotten,4,76,11685.0,15,3,73
+367,Biloxi Blues,USA,43184798.0,Comedy,1988,Matthew Broderick,106,PG-13,Fresh,81,26,10018.0,7,21,5
+3920,Angels & Demons,USA,133375846.0,Mystery,2009,Tom Hanks,138,PG-13,Rotten,36,258,531659.0,55,94,164
+1924,Dangerous Beauty,USA,4530929.0,Biography,1998,Catherine McCormack,111,R,Fresh,68,28,9248.0,8,19,9
+454,Lean on Me,USA,31906454.0,Drama,1989,Morgan Freeman,108,PG-13,Fresh,69,16,41433.0,2,11,5
+2645,About Schmidt,USA,65016287.0,Comedy,2002,Jack Nicholson,125,R,Certified Fresh,85,203,90655.0,44,173,30
+921,Lorenzo's Oil,USA,7286388.0,Drama,1992,Nick Nolte,129,PG-13,Fresh,92,38,15245.0,10,35,3
+2866,Chasing Papi,USA,6126237.0,Comedy,2003,Eduardo Verástegui,80,PG,Rotten,14,49,7095.0,22,7,42
+289,The Blob,USA,8247943.0,Horror,1988,Shawnee Smith,95,PG,Fresh,66,32,31625.0,3,21,11
+2160,The Minus Man,USA,368808.0,Crime,1999,Owen Wilson,111,R,Fresh,60,35,4047.0,9,21,14
+2967,Dirty Dancing: Havana Nights,USA,14161590.0,Drama,2004,Diego Luna,86,PG-13,Rotten,23,108,269617.0,38,25,83
+4356,War Horse,USA,79884879.0,Drama,2011,Jeremy Irvine,146,PG-13,Certified Fresh,75,233,69624.0,47,175,58
+4415,The Eagle,UK,19490041.0,Action,2011,Channing Tatum,114,PG-13,Rotten,40,155,42591.0,39,62,93
+5122,Home,USA,177397510.0,Animation,2015,Jim Parsons,94,PG-13,Fresh,94,35,2425.0,12,33,2
+658,Repossessed,USA,1382462.0,Comedy,1990,Leslie Nielsen,80,PG-13,Rotten,0,7,7281.0,0,0,7
+1511,101 Dalmatians,USA,136189294.0,Adventure,1996,Glenn Close,103,G,Certified Fresh,98,48,709186.0,6,47,1
+2248,Billy Elliot,UK,21995263.0,Drama,2000,Jamie Bell,110,R,Certified Fresh,85,117,280530.0,37,99,18
+65,The Morning After,USA,25147055.0,Crime,1986,Jane Fonda,103,R,Fresh,71,17,2643.0,1,12,5
+171,Beverly Hills Cop II,USA,153665000.0,Action,1987,Eddie Murphy,100,R,Rotten,46,28,276170.0,3,13,15
+3211,A Lot Like Love,USA,21835784.0,Comedy,2005,Ashton Kutcher,107,PG-13,Rotten,41,125,76753.0,38,51,74
+5240,Moonlight,USA,27850912.0,Drama,2016,Mahershala Ali,111,R,Fresh,60,10,1430.0,6,6,4
+5198,The D Train,UK,660994.0,Comedy,2015,Jack Black,101,R,Rotten,53,131,3412.0,36,70,61
+4927,Transcendence,UK,23022309.0,Drama,2014,Johnny Depp,119,PG-13,Rotten,20,222,64243.0,53,44,178
+4454,Apollo 18,USA,17686929.0,Horror,2011,Warren Christie,86,PG-13,Rotten,24,72,42442.0,12,17,55
+1368,A Walk in the Clouds,USA,50012507.0,Drama,1995,Keanu Reeves,102,PG-13,Rotten,44,27,62202.0,4,12,15
+3741,Never Back Down,USA,24850922.0,Action,2008,Sean Faris,110,PG-13,Rotten,23,84,609711.0,25,19,65
+2977,The Polar Express,USA,183373735.0,Animation,2004,Tom Hanks,100,G,Rotten,56,203,241905.0,50,113,90
+4112,Blue Valentine,USA,9737892.0,Drama,2010,Ryan Gosling,112,R,Certified Fresh,87,203,59087.0,48,176,27
+630,Memphis Belle,UK,27441977.0,Action,1990,Matthew Modine,107,PG-13,Fresh,67,24,29762.0,8,16,8
+3299,13 Tzameti,France,121390.0,Crime,2005,George Babluani,93,NR,Certified Fresh,84,67,9301.0,26,56,11
+4451,Albert Nobbs,UK,3014696.0,Drama,2011,Glenn Close,113,R,Rotten,56,156,9865.0,44,87,69
+2344,Lost Souls,USA,16779636.0,Drama,2000,Winona Ryder,97,R,Rotten,8,91,10736.0,30,7,84
+2744,The Wild Thornberrys Movie,USA,40108697.0,Animation,2002,Tim Curry,85,PG,Certified Fresh,80,89,20821.0,31,71,18
+5177,Jenny's Wedding,USA,2254.0,Comedy,2015,Katherine Heigl,94,PG-13,Rotten,25,16,1152.0,9,4,12
+4695,Thor: The Dark World,USA,206362140.0,Action,2013,Chris Hemsworth,112,PG-13,Fresh,67,269,310166.0,52,179,90
+4974,5 to 7,USA,116400.0,Comedy,2014,Anton Yelchin,95,R,Fresh,69,55,2359.0,22,38,17
+4397,The Rite,USA,33047633.0,Drama,2011,Colin O'Donoghue,114,PG-13,Rotten,21,170,52572.0,36,36,134
+2037,The Sixth Sense,USA,293506292.0,Drama,1999,Bruce Willis,107,PG-13,Certified Fresh,86,153,1036418.0,38,131,22
+3093,Saint Ralph,Canada,795126.0,Comedy,2004,Adam Butcher,98,PG-13,Fresh,64,69,6202.0,27,44,25
+2920,Masked and Anonymous,UK,533344.0,Comedy,2003,Bob Dylan,112,PG-13,Rotten,25,80,3599.0,31,20,60
+4958,The Signal,USA,600896.0,Sci-Fi,2014,Brenton Thwaites,97,R,Rotten,59,70,9733.0,18,41,29
+3344,Superman Returns,USA,200081192.0,Action,2006,Brandon Routh,154,PG-13,Certified Fresh,75,263,516925.0,52,197,66
+3139,Sky High,USA,63946815.0,Adventure,2005,Kurt Russell,100,PG,Fresh,73,130,203360.0,31,95,35
+1266,Terminal Velocity,USA,16478900.0,Action,1994,Charlie Sheen,102,PG-13,Rotten,20,25,12368.0,5,5,20
+1348,Village of the Damned,USA,9417567.0,Horror,1995,Christopher Reeve,99,R,Rotten,29,34,35727.0,5,10,24
+1029,The Three Musketeers,Germany,20377913.0,Action,2011,Logan Lerman,110,PG,Rotten,31,26,169731.0,4,8,18
+2474,Lagaan: Once Upon a Time in India,India,70147.0,Adventure,2001,Aamir Khan,224,PG,Certified Fresh,95,59,19697.0,22,56,3
+2142,Virus,USA,14010690.0,Action,1999,Jamie Lee Curtis,99,R,Rotten,10,48,20131.0,14,5,43
+4446,The Deep Blue Sea,UK,1124786.0,Drama,2011,Rachel Weisz,98,R,Certified Fresh,80,140,21116.0,43,112,28
+1970,Almost Heroes,USA,6114928.0,Adventure,1998,Chris Farley,90,PG-13,Rotten,8,40,37440.0,13,3,37
+4787,The Double,UK,200268.0,Comedy,2013,Jesse Eisenberg,93,R,Certified Fresh,83,131,18363.0,33,109,22
+4438,Wuthering Heights,UK,96889.0,Drama,2011,Kaya Scodelario,129,PG,Rotten,33,9,9800.0,1,3,6
+5012,Spring,USA,48949.0,Comedy,2014,Lou Taylor Pucci,109,NR,Certified Fresh,85,54,6351.0,16,46,8
+1874,Psycho,USA,21456130.0,Horror,1998,Vince Vaughn,105,R,Certified Fresh,96,94,239729.0,20,90,4
+2739,Pumpkin,USA,305690.0,Comedy,2002,Christina Ricci,113,R,Rotten,36,74,11914.0,23,27,47
+4616,The Company You Keep,USA,5132442.0,Drama,2012,Robert Redford,125,R,Rotten,54,119,13526.0,38,64,55
+1082,The Thing Called Love,USA,1029721.0,Comedy,1993,River Phoenix,116,PG-13,Rotten,57,21,10189.0,5,12,9
+717,Thelma & Louise,USA,45361000.0,Adventure,1991,Susan Sarandon,130,R,Certified Fresh,84,67,170046.0,18,56,11
+1894,Great Expectations,UK,258656.0,Drama,2012,Toby Irvine,128,R,Rotten,37,35,47520.0,7,13,22
+3685,Descent,USA,13361.0,Drama,2007,Rosario Dawson,104,R,Rotten,35,34,4236.0,14,12,22
+1188,Baby's Day Out,USA,16671505.0,Adventure,1994,Lara Flynn Boyle,99,PG,Rotten,20,15,186210.0,4,3,12
+4196,How Do You Know,USA,30212620.0,Comedy,2010,Reese Witherspoon,100,PG-13,Rotten,32,149,41917.0,45,47,102
+4837,Charlie Countryman,USA,7973.0,Comedy,2013,Shia LaBeouf,103,R,Rotten,27,66,4957.0,20,18,48
+2771,Underworld,USA,51970690.0,Action,2003,Kate Beckinsale,121,R,Rotten,31,161,495821.0,38,50,111
+570,Die Hard 2,USA,117540947.0,Action,1990,Bruce Willis,124,R,Fresh,68,63,414701.0,17,43,20
+1187,Texas Chainsaw Massacre: The Next Generation,USA,141626.0,Comedy,1994,Renée Zellweger,95,R,Rotten,14,35,31053.0,5,5,30
+2675,The Four Feathers,UK,18306166.0,Adventure,2002,Heath Ledger,132,NR,Fresh,100,9,2885.0,0,9,0
+2758,Pirates of the Caribbean: The Curse of the Black Pearl,USA,305413918.0,Action,2003,Johnny Depp,143,PG-13,Certified Fresh,79,217,33125722.0,45,172,45
+912,Radio Flyer,USA,4651977.0,Drama,1992,Lorraine Bracco,114,PG-13,Rotten,33,39,15608.0,13,13,26
+3561,I Now Pronounce You Chuck & Larry,USA,120059556.0,Comedy,2007,Adam Sandler,115,PG-13,Rotten,14,157,1307555.0,44,22,135
+2134,True Crime,USA,16635339.0,Crime,1999,Clint Eastwood,127,R,Rotten,0,5,2542.0,0,0,5
+4547,House at the End of the Street,Canada,31611916.0,Drama,2012,Jennifer Lawrence,101,PG-13,Rotten,12,65,57323.0,14,8,57
+1757,Anna Karenina,UK,12816367.0,Drama,2012,Keira Knightley,129,R,Fresh,62,189,52616.0,47,118,71
+5272,The Jungle Book,UK,364001123.0,Adventure,2016,Neel Sethi,106,PG,Certified Fresh,95,316,94379.0,50,299,17
+4543,The Five-Year Engagement,USA,28835528.0,Comedy,2012,Jason Segel,124,R,Fresh,63,173,266995.0,44,109,64
+4045,The Joneses,USA,1474508.0,Drama,2009,Demi Moore,96,R,Fresh,62,126,20802.0,34,78,48
+2870,Camp,USA,1628154.0,Comedy,2003,Don Dixon,114,PG-13,Fresh,64,107,11369.0,31,68,39
+5058,Tomorrowland,USA,93436322.0,Action,2015,George Clooney,130,PG,Rotten,50,285,87687.0,49,142,143
+1349,Tommy Boy,USA,32700000.0,Adventure,1995,Chris Farley,97,PG-13,Rotten,42,43,252300.0,8,18,25
+3024,The Perfect Score,USA,10387706.0,Comedy,2004,Scarlett Johansson,93,PG-13,Rotten,16,109,50747.0,33,17,92
+585,Gremlins 2: The New Batch,USA,41482207.0,Comedy,1990,Zach Galligan,106,PG-13,Fresh,69,45,268148.0,11,31,14
+3695,Lucky You,USA,5755286.0,Drama,2007,Eric Bana,124,PG-13,Rotten,29,142,207241.0,46,41,101
+197,The Stepfather,UK,2488740.0,Horror,1987,Terry O'Quinn,89,R,Fresh,88,32,3318.0,8,28,4
+551,"Bert Rigby, You're a Fool",USA,75868.0,Comedy,1989,Robert Lindsay,94,R,Rotten,40,5,94.0,1,2,3
+2561,Soul Survivors,USA,3100650.0,Drama,2001,Melissa Sagemiller,84,PG-13,Rotten,4,48,11376.0,14,2,46
+3383,United 93,USA,31567134.0,Drama,2006,David Alan Basche,111,R,Certified Fresh,90,210,129248.0,48,189,21
+2978,Resident Evil: Apocalypse,Germany,51201453.0,Action,2004,Milla Jovovich,94,R,Rotten,20,129,407890.0,29,26,103
+629,Hardware,UK,5728953.0,Sci-Fi,1990,Dylan McDermott,94,R,Rotten,50,12,5416.0,2,6,6
+3080,Undertow,USA,24947.0,Drama,2004,Jamie Bell,108,R,Rotten,55,120,7298.0,38,66,54
+2595,We Were Soldiers,USA,78122718.0,Action,2002,Mel Gibson,138,R,Fresh,63,146,203162.0,39,92,54
+1207,Color of Night,USA,19721814.0,Mystery,1994,Bruce Willis,121,R,Rotten,21,47,17073.0,14,10,37
+2737,Pinocchio,Italy,3684305.0,Comedy,2002,Roberto Benigni,108,G,Rotten,0,54,8930.0,19,0,54
+3260,Beauty Shop,USA,36351350.0,Comedy,2005,Queen Latifah,105,PG-13,Rotten,38,117,65149.0,32,44,73
+4053,Broken Embraces,Spain,5014305.0,Drama,2009,Penélope Cruz,127,R,Certified Fresh,81,154,20504.0,44,125,29
+2353,Psycho Beach Party,Australia,265107.0,Comedy,2000,Lauren Ambrose,95,NR,Rotten,53,32,8607.0,7,17,15
+430,Back to the Future Part II,USA,118500000.0,Adventure,1989,Michael J. Fox,108,PG,Fresh,65,60,749814.0,16,39,21
+502,Skin Deep,USA,19674852.0,Comedy,1989,John Ritter,97,R,Rotten,38,16,2811.0,1,6,10
+2185,In Dreams,USA,12017369.0,Drama,1999,Annette Bening,100,R,Rotten,24,50,8545.0,12,12,38
+4090,Insidious,USA,54009150.0,Horror,2010,Patrick Wilson,103,PG-13,Fresh,66,175,130571.0,34,115,60
+1489,Romeo + Juliet,USA,46351345.0,Drama,1996,Leonardo DiCaprio,120,PG-13,Fresh,72,64,571997.0,19,46,18
+1619,Night Falls on Manhattan,USA,9881286.0,Crime,1996,Andy Garcia,113,R,Fresh,68,28,1684.0,6,19,9
+488,We're No Angels,USA,10555348.0,Comedy,1989,Robert De Niro,106,PG-13,Rotten,47,19,8674.0,2,9,10
+2324,My Dog Skip,USA,34099640.0,Comedy,2000,Frankie Muniz,95,PG,Fresh,73,82,46381.0,25,60,22
+1920,The Siege,USA,40981289.0,Action,1998,Denzel Washington,116,R,Rotten,44,62,53735.0,13,27,35
+3390,The Queen,UK,56441711.0,Biography,2006,Helen Mirren,103,NR,Fresh,95,19,22.0,5,18,1
+3090,Godsend,Canada,14379751.0,Drama,2004,Robert De Niro,102,PG-13,Rotten,4,139,40375.0,41,6,133
+1837,The Big Lebowski,USA,17451873.0,Comedy,1998,Jeff Bridges,117,R,Certified Fresh,82,100,355746.0,19,82,18
+4472,Atlas Shrugged: Part I,USA,4752353.0,Drama,2011,Taylor Schilling,97,PG-13,Rotten,12,51,16971.0,19,6,45
+1363,Kicking and Screaming,USA,704543.0,Comedy,1995,Josh Hamilton,96,R,Rotten,55,38,8596.0,14,21,17
+4915,The Book of Life,USA,50151543.0,Animation,2014,Diego Luna,95,NR,Fresh,89,9,1416.0,0,8,1
+1736,Wilde,UK,2157701.0,Biography,1997,Stephen Fry,118,R,Fresh,71,49,9095.0,13,35,14
+4940,Horrible Bosses 2,USA,54445357.0,Comedy,2014,Jason Bateman,108,R,Rotten,34,154,58563.0,35,52,102
+1347,Village of the Damned,USA,9417567.0,Horror,1995,Christopher Reeve,99,R,Fresh,92,26,9630.0,4,24,2
+123,Nobody's Fool,USA,39487686.0,Comedy,1994,Paul Newman,110,R,Rotten,23,40,590.0,11,9,31
+2236,Erin Brockovich,USA,125595205.0,Biography,2000,Julia Roberts,131,R,Certified Fresh,84,145,418554.0,38,122,23
+751,Necessary Roughness,USA,26255594.0,Comedy,1991,Scott Bakula,108,PG-13,Rotten,31,29,9513.0,11,9,20
+457,Teen Witch,USA,27843.0,Comedy,1989,Robyn Lively,90,PG-13,Rotten,38,8,12504.0,0,3,5
+2937,The Girl Next Door,USA,14589444.0,Comedy,2004,Emile Hirsch,108,R,Rotten,56,159,398071.0,35,89,70
+1007,A Bronx Tale,USA,17266971.0,Crime,1993,Robert De Niro,121,R,Fresh,97,30,66726.0,5,29,1
+2772,Big Fish,USA,66257002.0,Adventure,2003,Ewan McGregor,125,PG-13,Certified Fresh,75,218,498181.0,46,164,54
+4306,We Bought a Zoo,USA,75624550.0,Comedy,2011,Matt Damon,124,PG,Fresh,64,166,131972.0,47,107,59
+2601,Men in Black II,USA,190418803.0,Action,2002,Tommy Lee Jones,88,PG-13,Rotten,39,197,925896.0,40,76,121
+3364,RV,UK,71726025.0,Adventure,2006,Robin Williams,99,PG,Rotten,23,122,306137.0,36,28,94
+2302,Rules of Engagement,UK,61335230.0,Drama,2000,Tommy Lee Jones,128,R,Rotten,36,96,49499.0,25,35,61
+1019,Philadelphia,USA,77324422.0,Drama,1993,Tom Hanks,125,PG-13,Certified Fresh,80,54,183207.0,10,43,11
+273,Beetlejuice,USA,73707461.0,Comedy,1988,Alec Baldwin,92,PG,Certified Fresh,84,56,916690.0,16,47,9
+937,The Babe,USA,17530973.0,Biography,1992,John Goodman,100,PG,Rotten,46,37,7352.0,14,17,20
+3441,Glory Road,USA,42643187.0,Biography,2006,Josh Lucas,118,PG,Rotten,56,151,338641.0,36,84,67
+3862,Hell Ride,USA,194287.0,Action,2008,Larry Bishop,84,R,Rotten,10,59,5515.0,21,6,53
+4921,If I Stay,USA,50474843.0,Drama,2014,Chloë Grace Moretz,107,PG-13,Rotten,36,138,48840.0,37,49,89
+167,Overboard,USA,26713187.0,Comedy,1987,Goldie Hawn,106,PG,Rotten,45,29,68284.0,4,13,16
+3539,Margot at the Wedding,USA,1959420.0,Comedy,2007,Nicole Kidman,93,R,Rotten,52,169,22011.0,44,88,81
+4143,Hot Tub Time Machine,USA,50287556.0,Comedy,2010,John Cusack,101,R,Fresh,63,207,166974.0,49,131,76
+1421,Home for the Holidays,USA,17518220.0,Comedy,1995,Holly Hunter,103,PG-13,Fresh,63,49,12414.0,13,31,18
+4330,The Good Doctor,USA,4106.0,Drama,2011,Orlando Bloom,91,PG-13,Fresh,66,29,4023.0,11,19,10
+988,Just Another Girl on the I.R.T.,USA,479169.0,Drama,1992,Ariyan A. Johnson,92,R,Fresh,65,23,1396.0,10,15,8
+2317,Proof of Life,USA,32598931.0,Action,2000,Meg Ryan,135,R,Rotten,39,117,47146.0,33,46,71
+681,Crazy People,USA,13236513.0,Comedy,1990,Dudley Moore,90,R,Rotten,37,19,4853.0,4,7,12
+4468,In the Land of Blood and Honey,USA,303877.0,Drama,2011,Zana Marjanovic,100,R,Rotten,56,79,5710.0,38,44,35
+5381,The Darkness,USA,10732841.0,Horror,2016,Kevin Bacon,92,PG-13,Rotten,3,32,6668.0,5,1,31
+913,Mom and Dad Save the World,USA,2034470.0,Adventure,1992,Teri Garr,88,PG,Rotten,9,23,9401.0,7,2,21
+2424,Scary Movie 2,USA,71308997.0,Comedy,2001,Anna Faris,83,R,Rotten,15,109,682770.0,31,16,93
+4676,Now You See Me,USA,117723989.0,Crime,2013,Jesse Eisenberg,115,PG-13,Rotten,50,165,179084.0,34,83,82
+4920,The Drop,USA,10724389.0,Crime,2014,Tom Hardy,106,R,Certified Fresh,89,196,34435.0,46,175,21
+1796,One Night Stand,USA,2618335.0,Drama,1997,Wesley Snipes,102,R,Rotten,32,31,4565.0,9,10,21
+1327,Before Sunrise,USA,5535405.0,Drama,1995,Ethan Hawke,101,R,Certified Fresh,100,43,73271.0,6,43,0
+818,The Butcher's Wife,USA,9689816.0,Comedy,1991,Demi Moore,107,PG-13,Rotten,25,16,7624.0,3,4,12
+3203,Ice Princess,USA,24381334.0,Comedy,2005,Michelle Trachtenberg,98,G,Rotten,51,107,210895.0,33,55,52
+4741,Locke,UK,1361423.0,Drama,2013,Tom Hardy,85,R,Certified Fresh,90,210,27867.0,52,190,20
+4372,Attack the Block,UK,1024175.0,Action,2011,John Boyega,88,R,Certified Fresh,90,174,33898.0,38,156,18
+5371,Denial,UK,4072226.0,Biography,2016,Rachel Weisz,109,PG-13,Certified Fresh,82,162,9303.0,38,133,29
+2363,Waking the Dead,USA,327418.0,Drama,2000,Billy Crudup,105,R,Rotten,51,55,5006.0,13,28,27
+3404,Failure to Launch,USA,88715192.0,Comedy,2006,Matthew McConaughey,97,PG-13,Rotten,24,150,438380.0,41,36,114
+3410,The Pink Panther,USA,82226474.0,Adventure,2006,Steve Martin,93,NR,Fresh,90,31,57463.0,1,28,3
+2010,Permanent Midnight,USA,1166199.0,Biography,1998,Ben Stiller,88,R,Rotten,58,53,5651.0,12,31,22
+1386,Total Eclipse,UK,339889.0,Biography,1995,Leonardo DiCaprio,111,R,Rotten,25,16,7748.0,4,4,12
+2925,Saw,USA,56000369.0,Horror,2004,Cary Elwes,103,R,Rotten,49,184,852554.0,43,91,93
+1159,Morning Glory,USA,31011732.0,Comedy,2010,Rachel McAdams,100,PG-13,Rotten,55,178,50238.0,49,98,80
+2637,Maid in Manhattan,USA,94011225.0,Comedy,2002,Jennifer Lopez,105,PG-13,Rotten,39,150,467592.0,40,58,92
+4298,X-Men: First Class,USA,146408305.0,Action,2011,James McAvoy,132,PG-13,Certified Fresh,86,290,184330.0,53,250,40
+1221,The Last Seduction,UK,6138485.0,Crime,1994,Linda Fiorentino,110,R,Certified Fresh,94,51,6456.0,13,48,3
+2375,Timecode,USA,945041.0,Drama,2000,Jeanne Tripplehorn,97,R,Fresh,68,81,5053.0,24,55,26
+4351,Cars 2,USA,191452396.0,Animation,2011,Owen Wilson,106,G,Rotten,39,215,103439.0,49,83,132
+5125,Home,USA,177397510.0,Animation,2015,Jim Parsons,94,PG,Rotten,50,131,56104.0,32,65,66
+2877,The In-Laws,USA,20440627.0,Action,2003,Albert Brooks,100,PG-13,Fresh,87,23,4812.0,0,20,3
+2583,The Lord of the Rings: The Two Towers,USA,342551365.0,Adventure,2002,Elijah Wood,179,PG-13,Certified Fresh,95,252,1341428.0,50,240,12
+4551,Red Dawn,USA,44806783.0,Action,2012,Chris Hemsworth,93,PG-13,Rotten,14,140,66641.0,38,19,121
+5149,The Boy Next Door,USA,35385560.0,Mystery,2015,Jennifer Lopez,91,R,Rotten,11,133,28705.0,37,14,119
+4129,Date Night,USA,98711404.0,Comedy,2010,Steve Carell,88,PG-13,Fresh,66,228,230423.0,48,151,77
+194,House II: The Second Story,USA,7800000.0,Comedy,1987,Arye Gross,88,PG-13,Rotten,9,11,8391.0,0,1,10
+5289,Criminal,USA,14268533.0,Action,2016,Kevin Costner,113,R,Fresh,69,124,6702.0,36,85,39
+2605,The Hot Chick,USA,35081594.0,Comedy,2002,Rob Schneider,104,PG-13,Rotten,22,83,475149.0,25,18,65
+2928,Hellboy,USA,59623958.0,Action,2004,Ron Perlman,122,PG-13,Certified Fresh,81,201,458858.0,44,163,38
+1919,Sphere,USA,37020277.0,Drama,1998,Dustin Hoffman,134,PG-13,Rotten,12,51,58504.0,15,6,45
+5241,Moonlight,USA,27850912.0,Drama,2016,Mahershala Ali,111,R,Certified Fresh,98,365,44816.0,59,358,7
+4936,The Judge,USA,47119388.0,Crime,2014,Robert Downey Jr.,141,R,Rotten,48,198,47708.0,46,95,103
+2684,The Master of Disguise,USA,40363530.0,Adventure,2002,Dana Carvey,80,PG,Rotten,1,104,59040.0,34,1,103
+3241,Kicking & Screaming,USA,52580895.0,Comedy,2005,Will Ferrell,95,PG,Rotten,40,141,70215.0,37,57,84
+2861,Radio,USA,52277485.0,Biography,2003,Cuba Gooding Jr.,109,PG,Rotten,36,121,171008.0,36,43,78
+4712,G.I. Joe: Retaliation,USA,122523060.0,Action,2013,Dwayne Johnson,110,PG-13,Rotten,29,173,199061.0,38,50,123
+2405,The Fast and the Furious,USA,144533925.0,Action,2001,Vin Diesel,106,PG-13,Rotten,53,149,1043882.0,37,79,70
+2340,Bless the Child,USA,29374178.0,Crime,2000,Kim Basinger,107,R,Rotten,3,111,35252.0,35,3,108
+3562,Resident Evil: Extinction,France,50648679.0,Action,2007,Milla Jovovich,94,R,Rotten,24,99,390490.0,18,24,75
+1125,Mr. Jones,USA,8315975.0,Drama,1993,Richard Gere,114,PG-13,Rotten,50,10,461.0,2,5,5
+420,Out of the Dark,USA,419428.0,Comedy,1988,Cameron Dye,89,R,Rotten,50,6,251.0,0,3,3
+1925,The Replacement Killers,USA,18967571.0,Action,1998,Yun-Fat Chow,87,R,Rotten,35,34,34263.0,7,12,22
+4353,The Adventures of Tintin,USA,77591831.0,Animation,2011,Jamie Bell,107,PG,Certified Fresh,73,225,77379.0,48,165,60
+1671,Lolita,USA,1400000.0,Drama,1997,Jeremy Irons,137,R,Fresh,68,25,22539.0,4,17,8
+1413,The Doom Generation,USA,259319.0,Action,1995,James Duval,83,R,Rotten,47,34,9345.0,15,16,18
+4598,Disconnect,USA,7435950.0,Drama,2012,Jason Bateman,115,R,Fresh,70,79,16205.0,29,55,24
+3873,College Road Trip,USA,45588608.0,Adventure,2008,Raven-Symoné,83,G,Rotten,12,73,191376.0,26,9,64
+3842,Ghost Town,USA,13214030.0,Comedy,2008,Ricky Gervais,102,PG-13,Certified Fresh,85,184,432916.0,46,156,28
+652,Mo' Better Blues,USA,16153600.0,Drama,1990,Denzel Washington,129,R,Fresh,73,33,9400.0,10,24,9
+3905,Sherlock Holmes,USA,209028679.0,Action,2009,Robert Downey Jr.,128,PG-13,Fresh,69,242,769180.0,52,168,74
+1075,Look Who's Talking Now,USA,10340263.0,Comedy,1993,John Travolta,96,PG-13,Rotten,0,25,185860.0,7,0,25
+1460,An Awfully Big Adventure,UK,258195.0,Comedy,1995,Hugh Grant,112,R,Rotten,36,14,5005.0,4,5,9
+714,The Addams Family,USA,113502000.0,Comedy,1991,Anjelica Huston,99,PG-13,Fresh,63,46,315126.0,8,29,17
+5061,Inside Out,USA,356461711.0,Animation,2015,Amy Poehler,95,PG-13,Rotten,25,12,396.0,7,3,9
+4567,Killing Them Softly,USA,15026056.0,Crime,2012,Brad Pitt,97,R,Certified Fresh,73,225,121346.0,53,165,60
+754,Bugsy,USA,49114016.0,Biography,1991,Warren Beatty,136,R,Certified Fresh,85,59,10198.0,16,50,9
+1984,Get Real,UK,1200000.0,Comedy,1998,Ben Silverstone,108,R,Certified Fresh,79,47,8071.0,15,37,10
+4204,Killers,USA,47059963.0,Action,2010,Katherine Heigl,100,PG-13,Rotten,10,107,139429.0,25,11,96
+2558,Bride of the Wind,UK,419414.0,Biography,2001,Sarah Wynter,100,R,Rotten,11,64,1007.0,28,7,57
+1297,The Glass Shield,France,3313633.0,Crime,1994,Michael Boatman,109,PG-13,Fresh,65,23,1210.0,8,15,8
+3098,Eros,USA,188248.0,Drama,2004,Li Gong,104,R,Rotten,34,68,6061.0,26,23,45
+4020,Youth in Revolt,USA,15281286.0,Comedy,2009,Michael Cera,90,R,Fresh,66,170,114577.0,42,112,58
+1372,Cutthroat Island,USA,10017322.0,Action,1995,Geena Davis,124,PG-13,Rotten,38,40,21777.0,10,15,25
+2957,Alexander,Germany,34297191.0,Action,2004,Colin Farrell,175,R,Rotten,16,204,237701.0,46,33,171
+3734,The Reader,USA,34194407.0,Drama,2008,Kate Winslet,124,R,Fresh,63,201,206850.0,49,126,75
+3326,The Fast and the Furious: Tokyo Drift,USA,62514415.0,Action,2006,Lucas Black,104,PG-13,Rotten,38,136,535861.0,40,51,85
+4482,Django Unchained,USA,162805434.0,Drama,2012,Jamie Foxx,165,R,Certified Fresh,86,281,428344.0,52,243,38
+3342,Step Up,USA,65328121.0,Crime,2006,Channing Tatum,104,PG-13,Rotten,20,105,615661.0,34,21,84
+1113,Kika,Spain,2093370.0,Comedy,1993,Peter Coyote,114,R,Rotten,57,14,7253.0,6,8,6
+1605,Jude,UK,405144.0,Drama,1996,Christopher Eccleston,123,R,Fresh,81,37,6861.0,13,30,7
+5301,London Has Fallen,UK,62524260.0,Action,2016,Gerard Butler,99,R,Rotten,26,193,36801.0,36,51,142
+144,RoboCop,USA,53424681.0,Action,1987,Peter Weller,102,PG-13,Rotten,49,211,127081.0,45,103,108
+1260,Mixed Nuts,USA,6798240.0,Comedy,1994,Steve Martin,97,PG-13,Rotten,10,30,9710.0,7,3,27
+5263,Collateral Beauty,USA,30982955.0,Drama,2016,Will Smith,97,PG-13,Rotten,14,179,22158.0,41,25,154
+1356,Dolores Claiborne,USA,24361867.0,Crime,1995,Kathy Bates,132,R,Certified Fresh,84,43,30229.0,11,36,7
+3937,A Single Man,USA,9166863.0,Drama,2009,Colin Firth,99,R,Certified Fresh,85,190,58164.0,46,162,28
+2247,The Replacements,USA,44737059.0,Comedy,2000,Keanu Reeves,118,PG-13,Rotten,41,108,159738.0,32,44,64
+3669,A Mighty Heart,USA,9176787.0,Biography,2007,Angelina Jolie,108,R,Certified Fresh,79,195,106637.0,58,154,41
+3112,Serenity,USA,25514517.0,Action,2005,Nathan Fillion,119,R,Rotten,20,185,1311.0,40,37,148
+3672,Towelhead,USA,371446.0,Drama,2007,Summer Bishil,116,R,Rotten,49,114,4580.0,39,56,58
+307,Red Heat,USA,34994648.0,Action,1988,Arnold Schwarzenegger,104,R,Fresh,67,24,37007.0,6,16,8
+517,Blaze,USA,19131246.0,Biography,1989,Paul Newman,120,R,Certified Fresh,95,88,,22,84,4
+2056,Big Daddy,USA,163479795.0,Comedy,1999,Adam Sandler,93,PG-13,Rotten,40,93,1052103.0,27,37,56
+5257,Leap!,France,12760985.0,Animation,2016,Elle Fanning,89,PG,Rotten,40,60,7127.0,20,24,36
+4851,Concussion,UK,34531832.0,Biography,2015,Will Smith,123,PG-13,Rotten,59,198,32725.0,37,117,81
+2631,Halloween: Resurrection,USA,30354442.0,Comedy,2002,Jamie Lee Curtis,94,R,Rotten,11,63,90350.0,16,7,56
+1121,A Dangerous Woman,USA,1497222.0,Drama,1993,Debra Winger,102,R,Rotten,55,11,1231.0,3,6,5
+3770,Defiance,USA,28644813.0,Action,2008,Daniel Craig,137,R,Rotten,57,183,251277.0,47,105,78
+3265,The Perfect Man,USA,16247775.0,Comedy,2005,Hilary Duff,100,PG,Rotten,6,129,281756.0,39,8,121
+5087,Bridge of Spies,USA,72313754.0,Drama,2015,Tom Hanks,142,PG-13,Certified Fresh,91,297,65243.0,55,270,27
+3088,Dear Frankie,UK,1340891.0,Drama,2004,Emily Mortimer,105,PG-13,Certified Fresh,81,112,30704.0,36,91,21
+782,Suburban Commando,USA,6948859.0,Action,1991,Hulk Hogan,90,PG,Rotten,15,13,20593.0,1,2,11
+3025,Saved!,USA,8940582.0,Comedy,2004,Jena Malone,92,PG-13,Fresh,61,145,111595.0,40,88,57
+5088,Steve Jobs,UK,17750583.0,Biography,2015,Michael Fassbender,122,R,Certified Fresh,86,306,42781.0,57,263,43
+3686,Evening,USA,12406646.0,Drama,2007,Vanessa Redgrave,117,PG-13,Rotten,27,129,123707.0,44,35,94
+2784,Peter Pan,UK,48462608.0,Adventure,2003,Jeremy Sumpter,113,G,Fresh,80,35,277881.0,6,28,7
+2536,Made,USA,5308707.0,Comedy,2001,Vince Vaughn,95,R,Fresh,71,107,18423.0,34,76,31
+1102,Matinee,USA,9532895.0,Comedy,1993,John Goodman,99,PG,Fresh,94,34,6999.0,4,32,2
+333,Married to the Mob,USA,21486757.0,Comedy,1988,Michelle Pfeiffer,104,R,Fresh,89,37,8060.0,6,33,4
+3158,Hard Candy,USA,1007962.0,Crime,2005,Patrick Wilson,104,R,Fresh,67,144,105867.0,41,97,47
+3687,Rocket Science,USA,712391.0,Comedy,2007,Reece Thompson,101,R,Certified Fresh,84,111,20909.0,41,93,18
+4054,Taking Woodstock,USA,7443007.0,Biography,2009,Demetri Martin,120,R,Rotten,48,182,252393.0,57,88,94
+3917,The Girl with the Dragon Tattoo,USA,102515793.0,Crime,2011,Daniel Craig,158,R,Certified Fresh,86,243,118787.0,48,209,34
+2786,House of 1000 Corpses,USA,12634962.0,Horror,2003,Sid Haig,89,R,Rotten,20,83,130708.0,16,17,66
+126,Dream Lover,USA,256264.0,Drama,1993,James Spader,103,R,Rotten,57,14,926.0,2,8,6
+3196,Thank You for Smoking,USA,24792061.0,Comedy,2005,Aaron Eckhart,92,R,Certified Fresh,86,179,258515.0,45,154,25
+45,Hannah and Her Sisters,USA,40084041.0,Comedy,1986,Mia Farrow,107,PG-13,Certified Fresh,91,56,31029.0,15,51,5
+4609,Girl Most Likely,USA,1378426.0,Comedy,2012,Kristen Wiig,103,PG-13,Rotten,22,94,12061.0,33,21,73
+1131,Sugar Hill,USA,18272447.0,Drama,1993,Wesley Snipes,123,R,Rotten,20,10,6708.0,2,2,8
+682,Ernest Goes to Jail,USA,25029569.0,Comedy,1990,Jim Varney,81,PG,Rotten,13,8,42682.0,0,1,7
+2176,Snow Falling on Cedars,USA,14378353.0,Drama,1999,Ethan Hawke,127,PG-13,Rotten,40,91,8237.0,27,36,55
+3705,Wanted,USA,134508551.0,Action,2008,Angelina Jolie,110,R,Certified Fresh,71,204,1546021.0,45,145,59
+2460,Bubble Boy,USA,5002310.0,Adventure,2001,Jake Gyllenhaal,84,PG-13,Rotten,30,83,243504.0,21,25,58
+3284,The Upside of Anger,USA,18761993.0,Comedy,2005,Joan Allen,100,R,Certified Fresh,74,183,29409.0,43,136,47
+982,Simple Men,Italy,141554.0,Crime,1992,Robert John Burke,105,R,Fresh,91,11,3604.0,2,10,1
+1244,Brainscan,Canada,4264509.0,Comedy,1994,Edward Furlong,96,R,Rotten,20,15,9931.0,2,3,12
+5092,The Intern,USA,75764672.0,Comedy,2015,Robert De Niro,121,PG-13,Fresh,60,190,44998.0,43,114,76
+3903,Friday the 13th,USA,65002019.0,Horror,2009,Jared Padalecki,97,R,Fresh,62,52,228895.0,6,32,20
+1208,The River Wild,USA,46815748.0,Action,1994,Meryl Streep,111,PG-13,Rotten,56,32,46902.0,8,18,14
+224,Suspect,USA,18782400.0,Crime,1987,Cher,121,R,Fresh,69,16,6772.0,1,11,5
+990,The Living End,USA,692585.0,Comedy,1992,Mike Dytri,81,R,Rotten,57,7,2159.0,1,4,3
+1264,Jason's Lyric,USA,20851521.0,Crime,1994,Allen Payne,120,R,Fresh,61,23,9136.0,9,14,9
+2898,The Green Butchers,Denmark,2483.0,Comedy,2003,Nikolaj Lie Kaas,100,R,Fresh,63,27,5579.0,14,17,10
+4357,A Dangerous Method,UK,5702083.0,Biography,2011,Michael Fassbender,99,R,Certified Fresh,78,184,27636.0,47,143,41
+4693,Carrie,USA,35266619.0,Drama,2013,Chloë Grace Moretz,100,R,Certified Fresh,92,66,352882.0,13,61,5
+1625,Alaska,USA,11567023.0,Adventure,1996,Thora Birch,109,PG,Rotten,18,11,10353.0,3,2,9
+1956,Gods and Monsters,USA,6390032.0,Biography,1998,Ian McKellen,105,R,Certified Fresh,95,63,13084.0,14,60,3
+2501,Hardball,USA,40219708.0,Drama,2001,Keanu Reeves,106,PG-13,Rotten,40,101,55350.0,29,40,61
+168,Overboard,USA,26713187.0,Comedy,1987,Goldie Hawn,106,PG-13,Rotten,24,87,2146.0,26,21,66
+1309,Squanto: A Warrior's Tale,USA,3337685.0,Adventure,1994,Adam Beach,102,PG,Fresh,60,10,2352.0,2,6,4
+2834,Bringing Down the House,USA,132716677.0,Comedy,2003,Steve Martin,105,PG-13,Rotten,34,149,379148.0,36,50,99
+1148,Mr. Wonderful,USA,3125424.0,Comedy,1993,Matt Dillon,98,PG-13,Rotten,52,21,3364.0,7,11,10
+1506,That Thing You Do!,USA,25809813.0,Comedy,1996,Tom Hanks,108,PG,Certified Fresh,93,57,126447.0,19,53,4
+355,The Milagro Beanfield War,USA,13825794.0,Comedy,1988,Rubén Blades,117,R,Rotten,55,29,3490.0,8,16,13
+3836,Chaos Theory,USA,237958.0,Comedy,2008,Ryan Reynolds,87,PG-13,Rotten,31,59,12601.0,24,18,41
+1939,One True Thing,USA,23245840.0,Drama,1998,Meryl Streep,127,R,Certified Fresh,89,61,9626.0,20,54,7
+3251,Boogeyman,USA,46752382.0,Drama,2005,Barry Watson,89,R,Rotten,13,89,261583.0,15,12,77
+1494,Mission: Impossible,USA,180981856.0,Action,1996,Tom Cruise,110,PG-13,Fresh,63,57,867099.0,21,36,21
+112,A Fine Mess,USA,6029824.0,Action,1986,Ted Danson,90,PG,Rotten,33,6,2079.0,2,2,4
+2125,Human Traffic,UK,104257.0,Comedy,1999,John Simm,99,R,Rotten,59,29,33164.0,9,17,12
+3824,The Brothers Bloom,USA,3519627.0,Adventure,2008,Rachel Weisz,114,PG-13,Fresh,68,156,91191.0,42,106,50
+5076,Black Mass,USA,62575678.0,Biography,2015,Johnny Depp,123,R,Certified Fresh,73,280,55480.0,52,204,76
+1085,Dave,USA,63270710.0,Comedy,1993,Kevin Kline,110,PG-13,Certified Fresh,95,59,42774.0,21,56,3
+3293,Asylum,UK,374903.0,Drama,2005,Natasha Richardson,99,R,Rotten,36,90,11434.0,27,32,58
+846,Hear My Song,Ireland,4313173.0,Comedy,1991,Ned Beatty,100,R,Fresh,90,29,623.0,12,26,3
+2936,Van Helsing,USA,120177084.0,Action,2004,Hugh Jackman,131,PG-13,Rotten,24,224,608934.0,43,53,171
+3657,Cassandra's Dream,USA,971561.0,Crime,2007,Colin Farrell,108,PG-13,Rotten,46,116,121955.0,37,53,63
+2574,Little Secrets,USA,405182.0,Comedy,2001,Evan Rachel Wood,96,PG,Fresh,60,48,7928.0,17,29,19
+2951,Finding Neverland,USA,51680613.0,Biography,2004,Johnny Depp,106,PG,Certified Fresh,82,205,465352.0,46,169,36
+1781,Mr. Magoo,USA,21382456.0,Adventure,1997,Leslie Nielsen,87,PG,Rotten,7,29,35932.0,10,2,27
+3219,The Fog,USA,29511112.0,Horror,2005,Tom Welling,100,R,Certified Fresh,76,55,49403.0,6,42,13
+2369,Sordid Lives,USA,1111273.0,Comedy,2000,Delta Burke,111,R,Rotten,37,27,3422.0,9,10,17
+3019,Vanity Fair,USA,16136476.0,Drama,2004,Reese Witherspoon,141,PG-13,Rotten,51,171,48716.0,44,87,84
+465,The War of the Roses,USA,86888546.0,Comedy,1989,Michael Douglas,116,R,Fresh,85,39,40797.0,9,33,6
+4343,Abduction,USA,28087155.0,Action,2011,Taylor Lautner,106,PG-13,Rotten,5,107,44641.0,24,5,102
+1901,A Night at the Roxbury,USA,30324946.0,Comedy,1998,Chris Kattan,82,PG-13,Rotten,11,55,362797.0,11,6,49
+3050,Raising Helen,USA,37486138.0,Comedy,2004,Kate Hudson,119,PG-13,Rotten,25,132,137297.0,38,33,99
+935,Stop! Or My Mom Will Shoot,USA,28411210.0,Action,1992,Sylvester Stallone,87,PG-13,Rotten,8,26,52906.0,7,2,24
+3185,Doom,UK,28031250.0,Action,2005,Karl Urban,105,R,Rotten,19,135,333510.0,31,25,110
+3726,Easy Virtue,UK,2656324.0,Comedy,2008,Jessica Biel,97,PG-13,Rotten,52,125,29378.0,40,65,60
+4075,Mystery Team,USA,77126.0,Comedy,2009,Donald Glover,97,R,Rotten,58,19,5160.0,7,11,8
+336,Night of the Demons,USA,3109904.0,Comedy,1988,Cathy Podewell,90,R,Rotten,40,10,12758.0,0,4,6
+3768,The Duchess,UK,13823741.0,Biography,2008,Keira Knightley,110,PG-13,Fresh,62,169,68874.0,45,104,65
+1502,The Hunchback of Notre Dame,USA,100138851.0,Animation,1996,Demi Moore,91,PG,Fresh,91,23,2951.0,3,21,2
+2027,Fight Club,USA,37030102.0,Drama,1999,Brad Pitt,139,R,Certified Fresh,79,170,1092514.0,39,134,36
+4010,Fighting,USA,23036320.0,Action,2009,Channing Tatum,105,PG-13,Rotten,40,129,765956.0,35,51,78
+5251,Underworld: Blood Wars,USA,30348260.0,Action,2016,Kate Beckinsale,91,R,Rotten,19,94,22076.0,15,18,76
+305,Halloween 4: The Return of Michael Myers,USA,17768757.0,Horror,1988,Donald Pleasence,88,R,Rotten,29,28,69072.0,5,8,20
+4934,Big Eyes,USA,14479776.0,Biography,2014,Amy Adams,106,PG-13,Fresh,72,185,32532.0,41,133,52
+4067,The Good Guy,USA,100503.0,Comedy,2009,Alexis Bledel,100,R,Rotten,35,26,2501.0,12,9,17
+4859,Interstellar,USA,188020017.0,Adventure,2014,Matthew McConaughey,169,PG-13,Certified Fresh,72,350,174493.0,58,252,98
+2525,Impostor,USA,6114237.0,Drama,2001,Shane Brolly,95,R,Rotten,22,93,7368.0,29,20,73
+4058,Defendor,Canada,44462.0,Comedy,2009,Woody Harrelson,101,R,Fresh,73,22,14358.0,8,16,6
+2513,Crazy/Beautiful,USA,16929123.0,Drama,2001,Kirsten Dunst,99,PG-13,Fresh,63,99,64413.0,30,62,37
+4699,Grown Ups 2,USA,133668525.0,Comedy,2013,Adam Sandler,101,PG-13,Rotten,7,112,180859.0,30,8,104
+288,Cocktail,UK,1027121.0,Comedy,2012,Saif Ali Khan,146,NR,Fresh,60,5,3383.0,1,3,2
+3673,Reservation Road,USA,121994.0,Crime,2007,Joaquin Phoenix,102,R,Rotten,38,112,14562.0,36,42,70
+1577,Jane Eyre,France,5200600.0,Drama,1996,William Hurt,112,PG-13,Certified Fresh,84,164,33275.0,44,138,26
+1679,Gattaca,USA,12339633.0,Drama,1997,Ethan Hawke,106,PG-13,Certified Fresh,83,58,208586.0,13,48,10
+3057,Night Watch,Russia,1487477.0,Action,2004,Konstantin Khabenskiy,114,R,Fresh,60,132,102347.0,38,79,53
+491,K-9,USA,43247647.0,Action,1989,Jim Belushi,101,PG-13,Rotten,22,9,53102.0,1,2,7
+4929,Foxcatcher,USA,12096300.0,Biography,2014,Steve Carell,134,R,Certified Fresh,88,244,57295.0,56,214,30
+1912,I Still Know What You Did Last Summer,USA,40002112.0,Horror,1998,Jennifer Love Hewitt,100,R,Rotten,7,56,371333.0,13,4,52
+512,The Package,USA,10647219.0,Action,1989,Gene Hackman,108,R,Fresh,64,14,4248.0,2,9,5
+4829,Tracks,Australia,508806.0,Adventure,2013,Mia Wasikowska,112,NR,Rotten,43,7,,3,3,4
+2110,Analyze This,USA,106885658.0,Comedy,1999,Robert De Niro,103,R,Fresh,70,105,224563.0,24,73,32
+423,Pet Sematary,USA,57469179.0,Horror,1989,Dale Midkiff,103,R,Rotten,57,261,3062.0,30,149,112
+4938,"As Above, So Below",USA,21197315.0,Horror,2014,Perdita Weeks,93,R,Rotten,26,77,22217.0,14,20,57
+4634,Parental Guidance,USA,77267296.0,Comedy,2012,Billy Crystal,105,PG,Rotten,17,92,61569.0,25,16,76
+21,The Texas Chainsaw Massacre 2,USA,8025872.0,Comedy,1986,Dennis Hopper,89,R,Rotten,48,31,50688.0,3,15,16
+4484,Prometheus,USA,126477084.0,Adventure,2012,Noomi Rapace,124,R,Certified Fresh,73,300,262879.0,56,220,80
+2031,American Pie,USA,102561004.0,Comedy,1999,Jason Biggs,95,R,Fresh,61,128,33781574.0,30,78,50
+4141,When in Rome,USA,32669555.0,Comedy,2010,Kristen Bell,91,PG-13,Rotten,16,111,157961.0,31,18,93
+1194,Maverick,USA,101631272.0,Action,1994,Mel Gibson,127,PG-13,Fresh,66,53,160955.0,15,35,18
+1536,D3: The Mighty Ducks,USA,22936273.0,Action,1996,Emilio Estevez,104,PG,Rotten,20,15,175024.0,4,3,12
+1971,Black Dog,USA,12829351.0,Action,1998,Patrick Swayze,89,PG-13,Rotten,10,20,21041.0,3,2,18
+2088,Lake Placid,USA,31770414.0,Action,1999,Bridget Fonda,82,R,Rotten,46,93,125787.0,24,43,50
+4360,The Mechanic,USA,29121498.0,Action,2011,Jason Statham,93,R,Rotten,53,162,57736.0,40,86,76
+1138,Son of the Pink Panther,Italy,2457574.0,Comedy,1993,Roberto Benigni,93,PG,Rotten,6,34,5277.0,10,2,32
+3733,Valkyrie,USA,83077833.0,Drama,2008,Tom Cruise,121,PG-13,Fresh,62,196,239365.0,48,122,74
+1648,Caught,USA,315752.0,Drama,1996,Edward James Olmos,110,NR,Fresh,67,6,90.0,4,4,2
+2727,City by the Sea,USA,22433915.0,Crime,2002,Robert De Niro,108,R,Rotten,47,144,16052.0,37,68,76
+4355,Your Highness,USA,21596445.0,Adventure,2011,Danny McBride,102,R,Rotten,27,179,54239.0,41,49,130
+1809,Love Jones,USA,12514138.0,Drama,1997,Larenz Tate,104,R,Fresh,67,15,25700.0,5,10,5
+904,El Mariachi,USA,2040920.0,Action,1992,Carlos Gallardo,81,R,Fresh,93,28,54713.0,7,26,2
+3240,The Greatest Game Ever Played,USA,15331289.0,Drama,2005,Shia LaBeouf,120,PG,Fresh,63,112,62548.0,30,70,42
+1804,Gone Fishin',USA,19736932.0,Comedy,1997,Joe Pesci,94,PG,Rotten,4,27,17156.0,10,1,26
+4659,At Any Price,USA,379791.0,Drama,2012,Dennis Quaid,105,R,Rotten,51,102,4989.0,34,52,50
+2852,Seabiscuit,USA,120277854.0,Drama,2003,Tobey Maguire,140,PG-13,Certified Fresh,77,203,118368.0,48,157,46
+4888,The Hunger Games: Mockingjay - Part 1,USA,337135885.0,Action,2014,Jennifer Lawrence,123,PG-13,Fresh,69,288,246722.0,55,198,90
+3274,Thumbsucker,USA,1325073.0,Comedy,2005,Lou Taylor Pucci,96,R,Fresh,71,118,57540.0,32,84,34
