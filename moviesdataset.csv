@@ -1,0 +1,501 @@
+,country,gross,genre,year,star,runtime,score,rating,tomatometer_status,tomatometer_rating,tomatometer_count,audience_status,audience_rating,audience_top_critics_count,audience_fresh_critics_count,audience_rotten_critics_count
+703,USA,33771174.0,Comedy,2000,Natalie Portman,120,6.8,PG-13,Rotten,35,97,Upright,76.0,32,34,63
+3966,USA,109205660.0,Comedy,2009,Vince Vaughn,113,5.5,PG-13,Rotten,10,162,Spilled,39.0,43,17,145
+873,USA,5101632.0,Drama,1992,John Malkovich,115,7.5,PG-13,Fresh,97,29,Upright,82.0,7,28,1
+1948,Jamaica,9630169.0,Crime,1998,Nas,96,6.0,R,Rotten,13,16,Upright,88.0,3,2,14
+4084,USA,128012934.0,Mystery,2010,Leonardo DiCaprio,138,8.1,R,Fresh,68,253,Upright,76.0,52,173,80
+3939,USA,296623634.0,Adventure,2009,Kristen Stewart,130,4.6,PG-13,Rotten,28,226,Upright,61.0,54,63,163
+3003,USA,88237754.0,Comedy,2004,Ben Stiller,101,6.1,PG-13,Fresh,62,193,Spilled,49.0,47,120,73
+3306,USA,53089891.0,Drama,2006,Christian Bale,130,8.5,PG-13,Certified Fresh,76,197,Upright,92.0,48,149,48
+1257,USA,13145977.0,Comedy,1994,Michael J. Fox,113,6.2,PG-13,Rotten,28,18,Spilled,48.0,3,5,13
+3236,France,24520892.0,Action,2005,Jet Li,103,7.0,NR,Fresh,75,8,Upright,72.0,3,6,2
+3140,USA,35818913.0,Action,2005,Scarlett Johansson,136,6.9,R,Rotten,40,5,Spilled,51.0,0,2,3
+292,UK,63493712.0,Comedy,1988,John Cleese,108,7.6,R,Certified Fresh,94,62,Upright,84.0,13,58,4
+4862,USA,167767189.0,Crime,2014,Ben Affleck,149,8.1,R,Certified Fresh,87,348,Upright,87.0,63,303,45
+2864,USA,35764982.0,Action,2003,Martin Lawrence,88,5.6,PG-13,Rotten,11,89,Spilled,45.0,29,10,79
+351,UK,8539181.0,Comedy,1988,Michael Caine,107,7.0,PG,Fresh,60,10,Upright,72.0,1,6,4
+1086,USA,53354166.0,Comedy,1993,Charles Grodin,89,4.8,PG,Rotten,23,13,Spilled,30.0,2,3,10
+4933,USA,26049082.0,Comedy,2014,Zac Efron,94,6.2,R,Rotten,22,138,Spilled,46.0,37,30,108
+820,USA,609524.0,Drama,1991,Edith Meeks,85,6.5,NC17,Fresh,76,21,Upright,68.0,8,16,5
+3703,UK,5694401.0,Action,2008,Gerard Butler,114,7.3,R,Fresh,60,147,Upright,71.0,45,88,59
+4965,UK,52076908.0,Biography,2014,David Oyelowo,128,7.5,PG-13,Certified Fresh,99,301,Upright,86.0,58,297,4
+4435,USA,969239.0,Crime,2011,Woody Harrelson,108,5.8,R,Certified Fresh,74,145,Spilled,35.0,40,108,37
+1521,Italy,4573330.0,Drama,1996,Jeremy Irons,118,6.6,R,Rotten,51,51,Upright,75.0,13,26,25
+118,USA,2669366.0,Comedy,1986,Daniel Jordano,102,4.1,PG-13,Rotten,4,90,Spilled,41.0,33,4,86
+2068,USA,69304264.0,Crime,1999,Pierce Brosnan,113,6.8,R,Fresh,70,102,Upright,77.0,29,71,31
+3027,USA,603951.0,Crime,2004,Rory Culkin,90,7.3,R,Certified Fresh,89,124,Upright,82.0,37,110,14
+5264,USA,5875006.0,Comedy,2016,Viggo Mortensen,118,7.9,R,Certified Fresh,82,218,Upright,85.0,45,179,39
+4110,USA,77222099.0,Action,2010,Liam Neeson,117,6.8,PG-13,Rotten,49,212,Upright,66.0,43,103,109
+722,Ireland,14919570.0,Comedy,1991,Robert Arkins,118,7.6,R,Certified Fresh,88,43,Upright,90.0,11,38,5
+3746,UK,31973840.0,Comedy,2008,Ryan Reynolds,112,7.2,PG-13,Certified Fresh,70,147,Upright,72.0,40,103,44
+4392,USA,122890.0,Horror,2011,Ashlynn Yennie,91,3.9,R,Rotten,29,82,Spilled,22.0,25,24,58
+2030,USA,136801374.0,Crime,1999,Tom Hanks,189,8.5,R,Certified Fresh,79,133,Upright,94.0,34,105,28
+3748,UK,30028592.0,Crime,2008,Jason Statham,111,7.3,R,Certified Fresh,79,146,Upright,74.0,39,116,30
+3960,UK,4444637.0,Biography,2009,Abbie Cornish,119,7.0,PG,Certified Fresh,83,174,Upright,68.0,50,144,30
+2172,USA,7292175.0,Comedy,1999,Shawn Hatosy,96,6.4,R,Rotten,51,75,Upright,65.0,25,38,37
+2191,USA,28535768.0,Comedy,1999,Steve Martin,90,5.3,PG-13,Fresh,60,15,Upright,68.0,2,9,6
+2198,UK,632617.0,Biography,1999,Pierce Brosnan,100,6.0,PG-13,Rotten,17,12,Spilled,56.0,2,2,10
+3461,USA,220914.0,Biography,2006,Nicole Kidman,122,6.5,R,Rotten,32,110,Upright,63.0,44,35,75
+2738,Italy,3684305.0,Comedy,2002,Roberto Benigni,108,4.2,G,Certified Fresh,100,51,Upright,73.0,9,51,0
+938,USA,754935.0,Comedy,1992,Tate Donovan,92,5.6,PG-13,Rotten,27,11,Spilled,43.0,0,3,8
+1172,USA,50282766.0,Crime,1994,Woody Harrelson,118,7.3,R,Rotten,47,38,Upright,81.0,9,18,20
+1494,USA,180981856.0,Action,1996,Tom Cruise,110,7.1,PG-13,Fresh,63,57,Upright,71.0,21,36,21
+2709,USA,3663356.0,Drama,2002,Frances McDormand,103,6.4,R,Fresh,68,110,Spilled,52.0,33,75,35
+678,USA,4011793.0,Adventure,1990,Patrick Bergin,136,7.3,R,Fresh,69,13,Upright,76.0,3,9,4
+3702,USA,127509326.0,Drama,2008,Brad Pitt,166,7.8,PG-13,Certified Fresh,71,247,Upright,80.0,51,176,71
+3805,USA,12062558.0,Comedy,2008,Amy Adams,91,6.9,R,Certified Fresh,74,174,Upright,63.0,47,129,45
+2872,USA,728253.0,Biography,2003,Macaulay Culkin,98,6.3,R,Rotten,29,79,Upright,75.0,32,23,56
+360,USA,32632093.0,Drama,1988,William Hurt,121,6.8,PG,Fresh,81,32,Upright,60.0,2,26,6
+2637,USA,94011225.0,Comedy,2002,Jennifer Lopez,105,5.1,PG-13,Rotten,39,150,Spilled,43.0,40,58,92
+5246,USA,7079191.0,Adventure,2016,Andrew Garfield,161,7.2,R,Certified Fresh,83,270,Upright,69.0,47,225,45
+1786,USA,6302154.0,Drama,1997,Nick Nolte,114,7.0,R,Certified Fresh,88,50,Upright,72.0,10,44,6
+5005,USA,80315.0,Comedy,2014,Aubrey Plaza,89,5.6,R,Rotten,44,95,Spilled,30.0,32,42,53
+5276,USA,67235683.0,Horror,2016,Teresa Palmer,81,6.4,PG-13,Certified Fresh,76,173,Upright,61.0,36,132,41
+5034,USA,17329486.0,Comedy,2014,Marlon Wayans,86,4.7,R,Rotten,8,38,Spilled,43.0,16,3,35
+1117,USA,7852653.0,Comedy,1993,Armand Assante,91,5.7,PG-13,Rotten,18,22,Spilled,41.0,8,4,18
+4610,USA,25888412.0,Action,2012,Tyler Perry,101,5.1,PG-13,Rotten,11,124,Spilled,47.0,35,14,110
+2406,USA,267665011.0,Animation,2001,Mike Myers,90,7.9,PG,Certified Fresh,88,204,Upright,90.0,49,179,25
+195,USA,57915972.0,Comedy,1987,Danny DeVito,88,6.2,PG-13,Fresh,62,34,Spilled,54.0,6,21,13
+178,USA,3369307.0,Action,1987,Adrian Pasdar,94,7.0,R,Certified Fresh,88,49,Upright,74.0,9,43,6
+5109,USA,3635292.0,Action,2015,Tye Sheridan,93,6.3,R,Rotten,44,93,Spilled,48.0,20,41,52
+3068,USA,2694071.0,Biography,2004,Jim Caviezel,129,6.7,PG,Rotten,26,76,Upright,61.0,31,20,56
+1909,Germany,7267585.0,Crime,1998,Franka Potente,81,7.7,R,Certified Fresh,93,82,Upright,90.0,20,76,6
+979,USA,6375979.0,Drama,1992,Ray Liotta,100,6.1,R,Rotten,43,14,Spilled,53.0,3,6,8
+4801,USA,17411930.0,Horror,2013,Keri Russell,97,6.3,PG-13,Rotten,41,92,Spilled,49.0,19,38,54
+397,USA,6436211.0,Comedy,1988,Bobcat Goldthwait,100,4.4,PG,Rotten,0,16,Spilled,40.0,6,0,16
+5161,USA,85886987.0,Animation,2015,Jason Lee,100,5.1,PG,Rotten,15,67,Spilled,51.0,20,10,57
+2687,USA,19076815.0,Drama,2002,Bruce Willis,125,6.3,R,Rotten,59,123,Spilled,48.0,36,73,50
+2227,USA,53331147.0,Horror,2000,Devon Sawa,98,6.7,R,Rotten,34,94,Upright,68.0,29,32,62
+1329,USA,173837933.0,Adventure,1995,Tom Hanks,140,7.6,PG,Certified Fresh,95,88,Upright,87.0,32,84,4
+5297,USA,4208879.0,Adventure,2016,Paul Dano,97,7.0,R,Fresh,71,201,Upright,72.0,36,142,59
+2078,USA,11533945.0,Biography,1999,Hilary Swank,118,7.6,R,Certified Fresh,88,77,Upright,87.0,22,68,9
+835,USA,11128309.0,Action,1991,Kathleen Turner,89,4.8,R,Rotten,21,24,Spilled,22.0,3,5,19
+1754,USA,791830.0,Drama,1997,Sophie Marceau,108,6.4,R,Fresh,62,189,Spilled,50.0,47,118,71
+1690,USA,148478011.0,Comedy,1997,Jack Nicholson,139,7.7,PG-13,Certified Fresh,85,78,Upright,86.0,21,66,12
+272,USA,790000.0,Comedy,1987,Julie Hagerty,93,4.7,R,Rotten,25,8,Spilled,32.0,3,2,6
+1977,USA,8288513.0,Drama,1998,Vince Vaughn,111,6.9,R,Fresh,71,45,Upright,74.0,13,32,13
+547,USA,13903262.0,Comedy,2001,Flex Alexander,89,6.3,PG-13,Rotten,8,49,Upright,84.0,15,4,45
+2446,USA,69772969.0,Action,2001,John Travolta,99,6.5,R,Rotten,26,138,Upright,60.0,37,36,102
+2681,USA,38082712.0,Action,2002,Robert De Niro,95,5.5,PG-13,Rotten,25,123,Spilled,25.0,34,31,92
+792,USA,4102526.0,Comedy,1991,Mel Brooks,92,5.8,PG-13,Rotten,18,17,Spilled,45.0,1,3,14
+1878,USA,136314294.0,Action,1998,Matthew Broderick,139,5.3,PG-13,Rotten,16,76,Spilled,28.0,12,12,64
+120,USA,563358.0,Comedy,1986,Rosanna Arquette,107,5.5,R,Certified Fresh,91,54,Upright,81.0,18,49,5
+5014,USA,9837.0,Drama,2014,Kristen Stewart,117,7.0,R,Certified Fresh,75,59,Upright,63.0,21,44,15
+4890,USA,6105175.0,Comedy,2014,James Franco,112,6.6,R,Rotten,51,148,Spilled,48.0,34,76,72
+3524,USA,52898073.0,Drama,2007,Johnny Depp,116,7.4,R,Certified Fresh,85,226,Upright,81.0,49,193,33
+4611,USA,6002451.0,Biography,2012,John Hawkes,95,7.2,R,Certified Fresh,91,200,Upright,80.0,52,182,18
+1785,USA,3562749.0,Animation,1997,Scott Bakula,75,6.9,G,Fresh,74,23,Upright,80.0,9,17,6
+968,USA,9011574.0,Action,1992,Willem Dafoe,101,6.0,R,Rotten,44,16,Spilled,42.0,2,7,9
+2995,USA,24008137.0,Action,2004,Jackie Chan,120,5.8,G,Fresh,71,38,Spilled,57.0,8,27,11
+1350,USA,10019307.0,Drama,1995,Liesel Matthews,97,7.7,G,Fresh,97,34,Upright,88.0,9,33,1
+2173,Canada,16459004.0,Drama,1999,Ewan McGregor,109,4.9,R,Rotten,9,87,Spilled,32.0,22,8,79
+3823,India,2411071.0,Action,2008,Aamir Khan,100,7.3,NR,Rotten,50,12,Upright,71.0,2,6,6
+4092,USA,251513985.0,Animation,2010,Steve Carell,95,7.7,PG,Certified Fresh,81,197,Upright,82.0,40,160,37
+601,USA,20710451.0,Drama,1990,Mel Gibson,135,6.8,PG-13,Certified Fresh,95,56,Upright,90.0,13,53,3
+3123,USA,234280354.0,Adventure,2005,Tom Cruise,116,6.5,PG-13,Certified Fresh,75,259,Spilled,42.0,51,194,65
+3776,USA,33422556.0,Drama,2008,Meryl Streep,104,7.5,PG-13,Certified Fresh,80,215,Upright,78.0,54,172,43
+4756,USA,13235319.0,Drama,2013,Oscar Isaac,104,7.5,R,Certified Fresh,92,274,Upright,74.0,55,253,21
+2205,USA,3732398.0,Drama,1999,Adrien Brody,127,7.1,R,Certified Fresh,85,48,Upright,76.0,13,41,7
+630,UK,27441977.0,Action,1990,Matthew Modine,107,6.9,PG-13,Fresh,67,24,Upright,79.0,8,16,8
+650,USA,4134992.0,Comedy,1990,Bob Hoskins,100,5.6,R,Rotten,0,8,Spilled,34.0,2,0,8
+3021,UK,6768055.0,Action,2004,Bill Paxton,95,4.2,PG,Rotten,19,106,Spilled,37.0,34,20,86
+5343,USA,32463917.0,Comedy,2016,Jennifer Aniston,118,5.6,R,Rotten,42,43,Spilled,52.0,10,18,25
+4539,USA,41152203.0,Comedy,2012,Cameron Diaz,110,5.7,PG-13,Rotten,23,133,Spilled,47.0,35,30,103
+1307,USA,1746050.0,Comedy,1994,Wallace Shawn,119,7.5,PG,Fresh,89,36,Upright,80.0,10,32,4
+647,Ireland,1414017.0,Drama,1990,Richard Harris,107,7.4,PG-13,Rotten,43,14,Upright,81.0,6,6,8
+4025,UK,1818681.0,Action,2009,Michael Caine,103,7.2,R,Fresh,62,125,Upright,75.0,40,78,47
+1844,USA,176484651.0,Comedy,1998,Ben Stiller,119,7.1,R,Certified Fresh,83,83,Upright,61.0,24,69,14
+4454,USA,17686929.0,Horror,2011,Warren Christie,86,5.2,PG-13,Rotten,24,72,Spilled,23.0,12,17,55
+4378,USA,1104682.0,Action,2011,Michael Parks,88,6.2,R,Fresh,60,91,Spilled,54.0,14,55,36
+4299,USA,116601172.0,Action,2011,Ryan Reynolds,114,5.6,PG-13,Rotten,26,240,Spilled,45.0,48,62,178
+3115,UK,51085416.0,Adventure,2005,Martin Freeman,109,6.8,PG,Fresh,60,198,Upright,65.0,40,119,79
+1718,USA,41198146.0,Biography,1997,Howard Stern,109,6.8,R,Certified Fresh,75,53,Upright,68.0,14,40,13
+2094,Germany,36663315.0,Mystery,1999,Nicolas Cage,123,6.5,R,Rotten,22,82,Spilled,52.0,23,18,64
+1075,USA,10340263.0,Comedy,1993,John Travolta,96,4.2,PG-13,Rotten,0,25,Spilled,29.0,7,0,25
+3812,USA,25926543.0,Horror,2008,Joshua Jackson,85,5.2,PG-13,Rotten,9,65,Spilled,33.0,13,6,59
+2889,USA,8243880.0,Crime,2003,William H. Macy,101,7.0,R,Certified Fresh,77,173,Upright,69.0,41,133,40
+2486,USA,18001232.0,Crime,2001,Diane Lane,106,5.8,PG-13,Rotten,21,86,Spilled,39.0,22,18,68
+767,USA,1228108.0,Comedy,1991,Richard Linklater,97,7.1,R,Fresh,86,35,Upright,77.0,7,30,5
+3535,USA,115802596.0,Action,2007,Nicolas Cage,114,5.2,PG-13,Rotten,26,140,Spilled,48.0,29,37,103
+3754,USA,36316032.0,Action,2008,Jason Statham,105,6.4,R,Rotten,42,158,Upright,60.0,33,66,92
+4472,USA,4752353.0,Drama,2011,Taylor Schilling,97,5.7,PG-13,Rotten,12,51,Upright,69.0,19,6,45
+3600,USA,23984949.0,Crime,2007,Halle Berry,109,5.7,R,Rotten,10,142,Spilled,51.0,42,14,128
+2040,USA,474544677.0,Action,1999,Ewan McGregor,136,6.5,PG,Rotten,53,223,Spilled,59.0,63,119,104
+4997,USA,47034272.0,Biography,2014,John Lloyd Young,134,6.8,R,Rotten,52,215,Upright,62.0,54,111,104
+2661,USA,12398628.0,Action,2002,Wesley Snipes,100,6.2,R,Rotten,48,106,Spilled,47.0,34,51,55
+474,USA,22099847.0,Crime,1989,Sylvester Stallone,109,6.4,R,Rotten,17,12,Spilled,50.0,0,2,10
+3534,USA,82272442.0,Adventure,2007,Josh Hutcherson,96,7.2,PG,Certified Fresh,85,157,Upright,70.0,37,133,24
+1782,USA,5716080.0,Drama,1997,Samuel L. Jackson,119,6.7,R,Rotten,30,27,Upright,67.0,5,8,19
+3969,USA,20819129.0,Action,2009,Kevin James,91,5.2,PG,Rotten,32,114,Spilled,43.0,34,37,77
+519,USA,2049769.0,Drama,1989,Robert De Niro,102,6.4,R,Fresh,64,14,Spilled,46.0,1,9,5
+5047,USA,81670090.0,Action,2015,Dylan O'Brien,131,6.3,PG-13,Rotten,46,147,Spilled,54.0,29,68,79
+2959,USA,51438175.0,Comedy,2004,Hilary Duff,95,5.9,PG,Rotten,12,104,Spilled,53.0,36,12,92
+4920,USA,10724389.0,Crime,2014,Tom Hardy,106,7.1,R,Certified Fresh,89,196,Upright,76.0,46,175,21
+2384,USA,6291602.0,Comedy,2000,Garry Shandling,105,5.6,R,Rotten,42,77,Spilled,28.0,23,32,45
+2672,USA,28563926.0,Drama,2002,Jesse Bradford,85,5.0,PG-13,Rotten,15,92,Spilled,32.0,21,14,78
+4497,USA,155332381.0,Action,2012,Kristen Stewart,127,6.1,PG-13,Rotten,49,232,Spilled,52.0,49,114,118
+4678,USA,291045518.0,Action,2013,Henry Cavill,143,7.1,PG-13,Rotten,56,329,Upright,75.0,56,184,145
+2516,UK,1292119.0,Biography,2001,Judi Dench,91,7.1,PG-13,Certified Fresh,98,98,Upright,80.0,27,96,2
+277,USA,83008852.0,Action,1988,Bruce Willis,131,8.2,R,Certified Fresh,93,76,Upright,94.0,16,71,5
+833,USA,7683267.0,Comedy,1991,Tommy Davidson,100,5.4,PG-13,Rotten,10,10,Spilled,56.0,0,0,0
+2652,USA,47811275.0,Adventure,2002,Frankie Muniz,88,5.4,PG,Rotten,43,93,Spilled,44.0,23,40,53
+405,USA,19474589.0,Comedy,1995,Kirstie Alley,101,5.8,PG,Rotten,8,24,Upright,60.0,9,2,22
+5302,USA,34904885.0,Horror,2016,Elizabeth Reaser,99,6.1,PG-13,Certified Fresh,82,119,Spilled,57.0,24,98,21
+2899,USA,15550605.0,Comedy,2003,Ashton Kutcher,86,4.7,PG-13,Rotten,8,73,Spilled,23.0,19,6,67
+3473,USA,8661334.0,Drama,2006,Kal Penn,122,7.6,PG-13,Certified Fresh,86,133,Upright,79.0,43,115,18
+3712,Germany,148095302.0,Drama,2008,Clint Eastwood,116,8.2,R,Certified Fresh,81,232,Upright,90.0,55,187,45
+734,USA,6401336.0,Drama,1991,River Phoenix,104,7.1,R,Certified Fresh,81,57,Upright,81.0,17,46,11
+4649,France,2291047.0,Biography,2012,Michel Bouquet,111,6.6,R,Fresh,72,68,Spilled,53.0,27,49,19
+602,USA,20710451.0,Drama,1990,Mel Gibson,135,6.8,R,Rotten,57,89,Spilled,46.0,22,51,38
+3720,USA,76808654.0,Comedy,2008,Katherine Heigl,111,6.1,PG-13,Rotten,40,151,Spilled,57.0,41,61,90
+4120,UK,29197642.0,Comedy,2010,Emma Thompson,109,6.1,PG,Certified Fresh,76,119,Spilled,55.0,35,90,29
+2588,USA,132072926.0,Action,2002,Tom Cruise,145,7.7,PG-13,Certified Fresh,91,249,Upright,80.0,53,226,23
+2723,USA,6044618.0,Action,2002,Stephen Dorff,96,5.6,R,Rotten,3,75,Spilled,51.0,24,2,73
+3429,USA,38432823.0,Crime,2006,Dwayne Johnson,125,6.9,PG-13,Rotten,42,100,Upright,81.0,29,42,58
+2027,USA,37030102.0,Drama,1999,Brad Pitt,139,8.8,R,Certified Fresh,79,170,Upright,96.0,39,134,36
+1236,USA,28864707.0,Comedy,1994,Pauly Shore,91,4.8,PG,Rotten,6,32,Spilled,44.0,10,2,30
+489,USA,16278590.0,Comedy,1989,Cybill Shepherd,108,6.4,PG,Fresh,67,30,Upright,65.0,7,20,10
+814,USA,12454768.0,Comedy,1991,Kim Basinger,115,5.7,R,Rotten,10,21,Spilled,45.0,7,2,19
+2369,USA,1111273.0,Comedy,2000,Delta Burke,111,6.8,R,Rotten,37,27,Upright,85.0,9,10,17
+5330,Israel,3810812.0,Drama,2016,Richard Gere,118,6.3,R,Fresh,67,15,Spilled,58.0,10,10,5
+260,USA,2228951.0,Action,1987,Michael Keaton,101,4.6,PG-13,Rotten,17,6,Spilled,29.0,1,1,5
+2720,USA,28658.0,Drama,2002,Taye Diggs,91,5.3,R,Rotten,5,38,Spilled,39.0,12,2,36
+390,USA,28202109.0,Comedy,1988,Jim Varney,95,5.6,PG,Rotten,36,14,Spilled,42.0,1,5,9
+2420,USA,38252284.0,Comedy,2001,Chyler Leigh,89,5.7,R,Rotten,29,99,Spilled,55.0,23,29,70
+3996,Iran,106662.0,Drama,2009,Golshifteh Farahani,119,8.1,NR,Certified Fresh,99,70,Upright,84.0,28,69,1
+63,USA,13431806.0,Comedy,1986,John Cusack,93,6.4,PG,Fresh,60,15,Upright,63.0,2,9,6
+1893,USA,26333044.0,Drama,1998,Ethan Hawke,111,6.8,PG-13,Fresh,68,80,Spilled,49.0,24,54,26
+289,USA,8247943.0,Horror,1988,Shawnee Smith,95,6.4,PG,Fresh,66,32,Spilled,52.0,3,21,11
+2579,USA,164615351.0,Biography,2002,Leonardo DiCaprio,141,8.1,PG-13,Certified Fresh,95,199,Upright,89.0,47,190,9
+5082,USA,22464430.0,Action,2015,Rupert Friend,96,5.7,R,Rotten,9,125,Spilled,40.0,29,11,114
+1941,USA,18252684.0,Comedy,1998,Ian Michael Smith,114,6.9,PG,Rotten,44,32,Upright,77.0,6,14,18
+2285,USA,15527125.0,Drama,2000,Matt Damon,116,5.8,PG-13,Rotten,32,99,Spilled,42.0,33,32,67
+1711,UK,29342592.0,Comedy,1997,Melanie Brown,93,3.4,PG,Rotten,35,63,Spilled,45.0,22,22,41
+2601,USA,190418803.0,Action,2002,Tommy Lee Jones,88,6.1,PG-13,Rotten,39,197,Spilled,45.0,40,76,121
+5143,USA,14434604.0,Action,2015,Jesse Eisenberg,100,6.1,R,Rotten,43,171,Spilled,45.0,41,73,98
+4803,USA,21833.0,Horror,2013,Lawrence Michael Levine,96,6.1,R,Fresh,70,64,Spilled,51.0,19,45,19
+4051,USA,12232937.0,Action,2009,John Cena,108,5.6,PG-13,Rotten,30,71,Spilled,45.0,17,21,50
+3194,UK,68671925.0,Action,2005,Matthew McConaughey,124,6.0,NR,Fresh,100,10,Upright,86.0,3,10,0
+3348,USA,128505958.0,Comedy,2006,Sacha Baron Cohen,84,7.3,R,Certified Fresh,91,219,Upright,79.0,50,199,20
+4151,USA,110485654.0,Comedy,2010,Julia Roberts,125,5.7,PG-13,Rotten,18,188,Spilled,47.0,44,33,155
+3090,Canada,14379751.0,Drama,2004,Robert De Niro,102,4.8,PG-13,Rotten,4,139,Spilled,20.0,41,6,133
+1343,France,309811.0,Crime,1995,Vincent Cassel,98,8.1,R,Fresh,100,25,Upright,95.0,7,25,0
+2856,USA,5111630.0,Adventure,2003,Adam Brody,105,6.0,PG-13,Rotten,8,74,Upright,79.0,28,6,68
+2925,USA,56000369.0,Horror,2004,Cary Elwes,103,7.7,R,Rotten,49,184,Upright,84.0,43,91,93
+2444,USA,31155435.0,Comedy,2001,Method Man,93,6.3,R,Rotten,26,57,Upright,79.0,20,15,42
+3421,USA,21160089.0,Comedy,2006,T.I.,105,6.0,PG-13,Fresh,61,85,Upright,86.0,32,52,33
+719,USA,79100000.0,Crime,1991,Robert De Niro,128,7.3,R,Certified Fresh,75,48,Upright,77.0,11,36,12
+4963,Japan,50856010.0,Horror,2014,Olivia Cooke,89,4.5,PG-13,Rotten,6,87,Spilled,24.0,22,5,82
+3655,USA,18882880.0,Comedy,2007,Jane Fonda,100,5.9,R,Rotten,18,117,Spilled,52.0,34,21,96
+4044,USA,454149.0,Crime,2009,Harrison Ford,113,6.8,R,Rotten,16,109,Spilled,49.0,42,17,92
+2633,USA,40914068.0,Action,2002,Nicolas Cage,134,6.0,R,Rotten,32,168,Spilled,50.0,42,54,114
+2239,USA,182811707.0,Comedy,2000,Mel Gibson,127,6.4,PG-13,Rotten,54,122,Spilled,54.0,34,66,56
+54,USA,37191304.0,Comedy,2002,Britney Spears,93,3.4,R,Fresh,73,15,Upright,82.0,2,11,4
+1107,UK,3275585.0,Action,1993,Gary Oldman,100,6.6,R,Rotten,22,36,Upright,62.0,11,8,28
+3504,USA,18352454.0,Adventure,2007,Emile Hirsch,148,8.1,R,Certified Fresh,83,196,Upright,89.0,54,162,34
+5307,USA,35794166.0,Horror,2016,Lauren Cohan,97,6.0,PG-13,Rotten,30,61,Spilled,38.0,9,18,43
+3577,USA,95673607.0,Comedy,2007,Eddie Murphy,100,4.0,PG-13,Rotten,9,123,Spilled,53.0,36,11,112
+2204,USA,1943649.0,Comedy,1999,Jeremy Northam,98,6.3,PG-13,Certified Fresh,81,52,Spilled,55.0,11,42,10
+3265,USA,16247775.0,Comedy,2005,Hilary Duff,100,5.5,PG,Rotten,6,129,Spilled,58.0,39,8,121
+3202,USA,53412862.0,Comedy,2005,Dennis Quaid,88,5.4,PG,Rotten,6,107,Spilled,51.0,35,6,101
+720,USA,59847242.0,Comedy,1991,Anna Chlumsky,102,6.8,PG-13,Rotten,53,17,Upright,77.0,3,9,8
+2822,USA,47811138.0,Action,2003,Frankie Muniz,102,5.0,PG,Rotten,39,103,Spilled,31.0,27,40,63
+468,USA,58571513.0,Crime,1989,Al Pacino,113,6.8,R,Fresh,78,27,Upright,65.0,5,21,6
+1724,USA,42868348.0,Action,1997,Harrison Ford,111,6.1,R,Rotten,34,38,Spilled,41.0,9,13,25
+5077,USA,31056945.0,Drama,2015,Mia Wasikowska,119,6.5,R,Fresh,73,265,Spilled,55.0,40,194,71
+4241,USA,3669.0,Drama,2010,Mickey Rourke,94,5.0,R,Rotten,3,33,Spilled,17.0,12,1,32
+4981,USA,28831145.0,Drama,2014,Kevin Costner,110,6.8,PG-13,Rotten,59,156,Upright,65.0,40,92,64
+3206,USA,76231249.0,Horror,2005,Naomi Watts,110,5.4,PG-13,Rotten,20,188,Spilled,33.0,40,38,150
+2874,USA,3203044.0,Comedy,2003,Woody Allen,108,6.4,R,Rotten,40,137,Spilled,44.0,40,55,82
+1261,USA,376928.0,Comedy,1994,Kevin Spacey,93,7.1,R,Fresh,78,36,Upright,79.0,12,28,8
+4024,USA,688529.0,Adventure,2009,Dan Fogler,100,6.6,PG-13,Rotten,32,97,Spilled,57.0,30,31,66
+1985,USA,631221.0,Horror,1998,Kevin Gage,85,5.0,R,Rotten,6,17,Upright,63.0,3,1,16
+4858,UK,128261724.0,Action,2014,Colin Firth,129,7.7,R,Certified Fresh,74,251,Upright,84.0,50,186,65
+81,USA,21458229.0,Comedy,1986,Burt Lancaster,104,6.2,PG,Rotten,57,14,Spilled,55.0,2,8,6
+3606,UK,18670946.0,Biography,2007,Anne Hathaway,120,7.1,PG,Rotten,58,139,Upright,74.0,45,80,59
+2664,USA,139236327.0,Comedy,2002,Tim Allen,104,5.6,G,Rotten,55,114,Spilled,42.0,32,63,51
+3076,USA,3825351.0,Comedy,2004,Will Ferrell,99,6.5,PG-13,Rotten,52,157,Spilled,47.0,44,82,75
+697,USA,847306.0,Drama,1990,Dennis Quaid,138,6.7,R,Fresh,64,11,Upright,74.0,4,7,4
+1485,USA,24611975.0,Crime,1996,William H. Macy,98,8.1,R,Certified Fresh,93,92,Upright,93.0,32,86,6
+4659,USA,379791.0,Drama,2012,Dennis Quaid,105,5.7,R,Rotten,51,102,Spilled,31.0,34,52,50
+461,USA,60864870.0,Comedy,1989,Eddie Murphy,116,5.9,R,Rotten,21,34,Upright,80.0,14,7,27
+4891,USA,39322544.0,Action,2014,Sylvester Stallone,126,6.1,PG-13,Rotten,32,168,Spilled,49.0,40,53,115
+2806,USA,31186896.0,Action,2003,Aaron Eckhart,135,5.5,PG-13,Rotten,40,156,Spilled,34.0,34,63,93
+1638,USA,3308758.0,Comedy,1996,Tom Arnold,89,4.9,PG,Rotten,13,23,Spilled,39.0,9,3,20
+1308,USA,8534.0,Drama,1994,Lisa Bowman,76,6.5,NR,Fresh,94,16,Upright,60.0,5,15,1
+4549,USA,11494838.0,Drama,2012,Bradley Cooper,102,7.1,PG-13,Rotten,24,125,Spilled,49.0,35,30,95
+3376,USA,198000317.0,Animation,2006,Elijah Wood,108,6.5,PG,Certified Fresh,76,166,Upright,70.0,45,126,40
+553,USA,61490000.0,Drama,1990,Kiefer Sutherland,115,6.6,PG-13,Rotten,4,76,Spilled,33.0,15,3,73
+3116,USA,83043761.0,Drama,2005,Jake Gyllenhaal,134,7.7,R,Certified Fresh,87,242,Upright,82.0,53,211,31
+572,USA,52096475.0,Biography,1990,Robert De Niro,121,7.8,PG-13,Fresh,88,33,Upright,89.0,4,29,4
+2534,USA,112952899.0,Comedy,2001,Eddie Murphy,87,4.7,PG,Rotten,42,106,Spilled,26.0,33,44,62
+2298,UK,8279017.0,Drama,2000,John Malkovich,92,6.9,R,Certified Fresh,82,138,Upright,74.0,36,113,25
+1557,USA,21600000.0,Action,1996,Jean-Claude Van Damme,95,5.5,PG-13,Rotten,14,21,Spilled,36.0,5,3,18
+4070,USA,66637.0,Drama,2009,Ben Foster,113,7.2,NR,Fresh,83,12,Upright,60.0,6,10,2
+4989,Ireland,3593460.0,Drama,2014,Brendan Gleeson,102,7.4,R,Certified Fresh,90,165,Upright,80.0,44,148,17
+1178,USA,20982557.0,Comedy,1994,Winona Ryder,99,6.6,PG-13,Fresh,66,56,Upright,74.0,17,37,19
+4704,UK,26004851.0,Action,2013,Simon Pegg,109,7.0,R,Certified Fresh,89,235,Upright,71.0,50,209,26
+3791,USA,31487293.0,Comedy,2008,Michael Cera,90,6.7,PG-13,Certified Fresh,74,184,Upright,65.0,46,137,47
+4682,UK,274092705.0,Drama,2013,Sandra Bullock,91,7.8,PG-13,Certified Fresh,96,346,Upright,80.0,61,331,15
+544,USA,1869417.0,Comedy,1989,Peter Falk,94,5.2,R,Rotten,17,12,Spilled,39.0,1,2,10
+3651,USA,61356221.0,Drama,2007,Columbus Short,100,5.3,PG-13,Rotten,25,89,Upright,82.0,34,22,67
+3867,France,1477650.0,Comedy,2008,Kad Merad,106,7.1,NR,Fresh,67,9,Upright,78.0,2,6,3
+1334,USA,88246220.0,Action,1995,Kevin Costner,135,6.1,PG-13,Rotten,45,58,Spilled,43.0,12,26,32
+1719,USA,23687907.0,Comedy,1997,Kel Mitchell,95,5.7,PG,Rotten,32,38,Upright,63.0,15,12,26
+4139,UK,304137.0,Comedy,2010,Will Adamsdale,97,7.3,R,Certified Fresh,83,134,Upright,80.0,35,111,23
+4409,USA,21426805.0,Action,2011,Emile Hirsch,89,4.9,PG-13,Rotten,12,59,Spilled,25.0,10,7,52
+4174,USA,60974475.0,Comedy,2010,Jonah Hill,109,6.4,R,Certified Fresh,72,199,Upright,62.0,46,143,56
+860,USA,63895607.0,Drama,1992,Al Pacino,156,8.0,R,Certified Fresh,88,43,Upright,92.0,9,38,5
+2692,USA,4420080.0,Comedy,2002,Eddie Murphy,95,3.8,PG-13,Rotten,4,89,Spilled,19.0,23,4,85
+2025,USA,34488.0,Comedy,1998,BD Wong,78,5.0,PG,Rotten,0,5,Upright,62.0,0,0,5
+1345,USA,34693481.0,Action,1995,Sylvester Stallone,96,5.5,R,Rotten,17,52,Spilled,30.0,11,9,43
+5086,USA,643557.0,Biography,2015,Ezra Miller,122,6.9,R,Certified Fresh,84,98,Upright,75.0,32,82,16
+1079,Germany,77848.0,Drama,1993,Dominique Horwitz,134,7.5,R,Rotten,50,74,Spilled,41.0,28,37,37
+4507,USA,14123773.0,Crime,2012,Vanessa Hudgens,94,5.3,R,Fresh,67,190,Spilled,38.0,46,127,63
+3253,USA,305688.0,Comedy,2005,Evan Rachel Wood,100,6.6,R,Rotten,32,77,Upright,62.0,29,25,52
+2494,UK,4298329.0,Drama,2001,Dougray Scott,119,6.4,R,Fresh,72,106,Spilled,55.0,32,76,30
+4107,USA,63075011.0,Horror,2010,Jackie Earle Haley,95,5.2,R,Rotten,15,178,Spilled,43.0,35,27,151
+4658,USA,519535.0,Drama,2012,Riz Ahmed,130,6.9,R,Rotten,57,98,Upright,61.0,32,56,42
+1276,USA,7892208.0,Comedy,1994,Damon Wayans,92,4.8,PG-13,Rotten,13,15,Spilled,40.0,3,2,13
+2438,USA,6217849.0,Comedy,2001,Steve Buscemi,111,7.4,R,Certified Fresh,92,158,Upright,84.0,41,146,12
+108,USA,10090429.0,Comedy,1986,Prince,98,4.9,PG-13,Rotten,34,35,Upright,67.0,11,12,23
+2185,USA,12017369.0,Drama,1999,Annette Bening,100,5.5,R,Rotten,24,50,Spilled,40.0,12,12,38
+3985,USA,79566871.0,Comedy,2009,Miley Cyrus,102,4.3,G,Rotten,43,132,Upright,67.0,40,57,75
+3033,USA,1339668.0,Comedy,2004,Tracey Ullman,89,5.1,NC17,Rotten,53,117,Spilled,51.0,35,62,55
+4365,USA,5354039.0,Drama,2011,Zachary Quinto,107,7.1,R,Certified Fresh,87,167,Upright,74.0,44,145,22
+3592,USA,47536778.0,Action,2007,Jamie Foxx,110,7.1,R,Rotten,51,185,Upright,76.0,51,94,91
+5256,USA,113257297.0,Comedy,2016,Mila Kunis,100,6.2,R,Rotten,58,165,Upright,63.0,37,96,69
+3397,USA,54607383.0,Horror,2006,Liev Schreiber,110,5.5,R,Certified Fresh,85,48,Upright,80.0,6,41,7
+368,USA,3468572.0,Drama,1988,Eric Bogosian,110,7.3,R,Certified Fresh,82,49,Upright,81.0,13,40,9
+3869,UK,50877145.0,Animation,2008,Matthew Broderick,93,6.1,G,Rotten,57,109,Spilled,44.0,33,62,47
+4114,USA,19068240.0,Drama,2010,Robert Pattinson,113,7.2,PG-13,Rotten,27,138,Upright,69.0,41,37,101
+3870,USA,6820.0,Action,2008,Thomas Jane,111,5.2,R,Rotten,18,34,Spilled,24.0,6,6,28
+1101,USA,18899204.0,Comedy,1993,Christian Slater,102,6.8,PG-13,Rotten,54,26,Upright,77.0,4,14,12
+3007,USA,16702864.0,Adventure,2004,Kristen Stewart,91,5.2,PG,Rotten,13,86,Spilled,47.0,29,11,75
+5239,UK,26830068.0,Action,2016,Milla Jovovich,107,5.6,R,Rotten,37,100,Spilled,48.0,15,37,63
+2718,India,3500000.0,Musical,2002,Shah Rukh Khan,185,7.6,PG,Fresh,89,19,Upright,88.0,4,17,2
+710,USA,204843350.0,Action,1991,Arnold Schwarzenegger,137,8.5,R,Certified Fresh,93,81,Upright,94.0,26,75,6
+450,USA,793775.0,Adventure,1989,Fred Savage,100,6.1,PG,Rotten,50,8,Upright,62.0,1,4,4
+1227,USA,13640000.0,Comedy,1994,Alfre Woodard,115,6.9,PG-13,Fresh,77,30,Upright,90.0,10,23,7
+1189,Japan,33423521.0,Action,1994,Jean-Claude Van Damme,102,3.8,PG-13,Rotten,11,38,Spilled,20.0,8,4,34
+1938,UK,16311763.0,Crime,1998,Bill Paxton,121,7.5,R,Certified Fresh,90,71,Upright,81.0,11,64,7
+2526,France,695876.0,Comedy,2001,Tim Robbins,96,6.4,R,Rotten,49,94,Upright,61.0,29,46,48
+125,USA,502237.0,Crime,1986,Kristy McNichol,104,5.1,R,Rotten,57,14,Spilled,39.0,2,8,6
+4462,USA,7204138.0,Comedy,2011,Owen Wilson,100,6.2,PG,Rotten,41,102,Spilled,40.0,35,42,60
+1256,USA,7411659.0,Comedy,1994,Martin Short,90,5.3,PG,Rotten,10,30,Upright,67.0,9,3,27
+1879,USA,136314294.0,Action,1998,Matthew Broderick,139,5.3,PG-13,Certified Fresh,75,318,Upright,66.0,59,239,79
+4899,UK,65014513.0,Action,2014,Christian Bale,150,6.0,PG-13,Rotten,30,202,Spilled,35.0,47,61,141
+2629,USA,56684819.0,Action,2002,Guy Pearce,96,5.9,G,Fresh,77,35,Upright,79.0,3,27,8
+728,USA,89325780.0,Comedy,1991,Steve Martin,105,6.5,G,Fresh,93,30,Upright,74.0,6,28,2
+3914,USA,402111870.0,Action,2009,Shia LaBeouf,150,6.0,PG-13,Rotten,20,250,Spilled,57.0,54,50,200
+4089,Canada,6857096.0,Drama,2010,Lubna Azabal,131,8.2,R,Certified Fresh,93,121,Upright,92.0,38,112,9
+4288,USA,241071802.0,Action,2011,Johnny Depp,100,6.6,PG-13,Rotten,33,274,Spilled,54.0,49,90,184
+3086,UK,8725813.0,Crime,2004,Aaron Eckhart,100,5.9,R,Rotten,18,129,Spilled,38.0,35,23,106
+1331,USA,65807024.0,Action,1995,Will Smith,119,6.8,R,Rotten,42,62,Upright,78.0,16,26,36
+472,USA,5552441.0,Comedy,1989,Corey Feldman,114,5.9,PG-13,Rotten,0,10,Upright,67.0,3,0,10
+1126,USA,18369.0,Crime,1993,Michael Biehn,98,3.7,R,Rotten,0,5,Spilled,26.0,1,0,5
+4656,USA,65653242.0,Comedy,2012,Tyler Perry,100,4.9,PG-13,Rotten,19,36,Upright,66.0,13,7,29
+4184,France,15541549.0,Drama,2010,Ewan McGregor,128,7.2,PG-13,Certified Fresh,84,205,Upright,70.0,45,172,33
+3374,USA,40137776.0,Comedy,2006,Will Ferrell,113,7.6,PG-13,Certified Fresh,72,174,Upright,85.0,47,126,48
+1313,USA,100475249.0,Action,1995,Robin Williams,104,6.9,PG,Rotten,54,37,Upright,62.0,8,20,17
+685,USA,15369573.0,Adventure,1990,Douglas Barr,100,5.3,PG,Rotten,8,12,Spilled,51.0,3,1,11
+2353,Australia,265107.0,Comedy,2000,Lauren Ambrose,95,6.3,NR,Rotten,53,32,Upright,66.0,7,17,15
+709,USA,130742922.0,Crime,1991,Jodie Foster,118,8.6,R,Certified Fresh,96,93,Upright,95.0,27,89,4
+3084,India,1223240.0,Drama,2004,Shah Rukh Khan,195,8.3,NR,Fresh,83,6,Upright,91.0,3,5,1
+2495,USA,19693891.0,Comedy,2001,Freddie Prinze Jr.,108,5.0,PG-13,Rotten,8,91,Spilled,41.0,29,7,84
+4491,USA,45512466.0,Adventure,2012,Jared Gilman,94,7.8,PG-13,Certified Fresh,93,246,Upright,86.0,52,229,17
+623,USA,25069101.0,Action,1990,Charlie Sheen,113,5.5,R,Rotten,19,32,Spilled,42.0,11,6,26
+3993,USA,90485233.0,Comedy,2009,Tyler Perry,103,4.3,PG-13,Rotten,27,51,Upright,96.0,13,14,37
+4106,USA,63075011.0,Horror,2010,Jackie Earle Haley,95,5.2,R,Certified Fresh,94,52,Upright,83.0,7,49,3
+2691,USA,69599016.0,Drama,2002,Sandra Bullock,116,6.0,PG-13,Rotten,44,145,Upright,65.0,39,64,81
+173,UK,43984230.0,Biography,1987,John Lone,163,7.8,PG-13,Certified Fresh,91,65,Upright,88.0,16,59,6
+193,USA,39321715.0,Comedy,1987,Kim Basinger,95,5.9,NR,Rotten,33,21,Spilled,35.0,10,7,14
+1553,USA,3794000.0,Action,1996,Pamela Anderson,98,3.2,R,Rotten,28,36,Spilled,14.0,13,10,26
+3312,USA,35552383.0,Drama,2006,Julianne Moore,109,7.9,R,Certified Fresh,92,247,Upright,85.0,53,227,20
+3514,USA,58272029.0,Horror,2007,Scout Taylor-Compton,109,6.1,R,Rotten,27,116,Spilled,59.0,23,31,85
+2782,Netherlands,1530386.0,Crime,2003,Nicole Kidman,178,8.0,R,Fresh,70,167,Upright,89.0,47,117,50
+3402,USA,57651794.0,Action,2006,David Spade,80,5.6,PG-13,Rotten,11,70,Upright,64.0,16,8,62
+690,USA,21036771.0,Comedy,1990,Richard Alexander,90,5.3,PG-13,Rotten,0,5,Spilled,45.0,2,0,5
+5108,Italy,2698509.0,Comedy,2015,Michael Caine,124,7.3,R,Certified Fresh,72,209,Upright,69.0,41,150,59
+3485,USA,10996440.0,Adventure,2006,Billy Bob Thornton,104,6.3,PG,Rotten,58,136,Spilled,49.0,35,79,57
+1042,USA,35112679.0,Action,1993,Jason Scott Lee,120,7.0,PG-13,Fresh,71,21,Upright,79.0,4,15,6
+5169,Canada,637555.0,Drama,2015,Christopher Plummer,94,7.4,R,Fresh,70,94,Upright,79.0,23,66,28
+5310,USA,77042381.0,Adventure,2016,Mia Wasikowska,113,6.2,PG,Rotten,29,249,Spilled,48.0,44,73,176
+2305,Germany,13555988.0,Adventure,2000,Jonathan Lipnicki,95,5.7,PG,Rotten,55,66,Spilled,55.0,23,36,30
+4441,UK,1201.0,Comedy,2011,Felicity Jones,100,6.3,R,Certified Fresh,77,43,Spilled,53.0,11,33,10
+4481,UK,448139099.0,Action,2012,Christian Bale,164,8.4,PG-13,Certified Fresh,87,360,Upright,90.0,60,313,47
+4343,USA,28087155.0,Action,2011,Taylor Lautner,106,5.1,PG-13,Rotten,5,107,Spilled,42.0,24,5,102
+4809,USA,16097842.0,Biography,2013,Michael B. Jordan,85,7.5,R,Certified Fresh,94,205,Upright,87.0,57,193,12
+2861,USA,52277485.0,Biography,2003,Cuba Gooding Jr.,109,6.9,PG,Rotten,36,121,Upright,79.0,36,43,78
+4212,USA,32746941.0,Drama,2010,Matt Damon,129,6.5,PG-13,Rotten,47,232,Spilled,38.0,47,108,124
+4049,UK,2708188.0,Comedy,2009,Michelle Pfeiffer,100,6.2,R,Rotten,50,137,Spilled,40.0,44,69,68
+1491,USA,4109095.0,Crime,1996,Naveen Andrews,117,6.0,R,Rotten,40,20,Upright,71.0,6,8,12
+4048,USA,29580087.0,Comedy,2009,Hugh Grant,100,4.8,PG-13,Rotten,12,120,Spilled,27.0,36,14,106
+4503,Denmark,687185.0,Drama,2012,Mads Mikkelsen,115,8.3,NR,Fresh,80,5,Unknown,60.47082875625534,0,4,1
+4960,UK,76223578.0,Animation,2014,Hugh Bonneville,95,7.2,PG,Certified Fresh,97,155,Upright,80.0,44,151,4
+2742,USA,1266828.0,Comedy,2002,Campbell Scott,106,7.0,R,Certified Fresh,88,123,Upright,76.0,34,108,15
+4730,USA,89302115.0,Action,2013,Johnny Depp,150,6.5,PG-13,Rotten,31,242,Spilled,51.0,48,75,167
+1605,UK,405144.0,Drama,1996,Christopher Eccleston,123,7.0,R,Fresh,81,37,Upright,73.0,13,30,7
+1090,USA,17953778.0,Comedy,1993,Chris Rock,89,6.2,R,Rotten,55,22,Upright,62.0,9,12,10
+3809,USA,43869350.0,Horror,2008,Brittany Snow,88,3.9,R,Rotten,45,20,Spilled,35.0,4,9,11
+2885,UK,31041759.0,Comedy,2003,Helen Mirren,108,6.9,PG-13,Certified Fresh,74,125,Upright,67.0,36,92,33
+3729,USA,215434591.0,Animation,2008,Jack Black,92,7.6,PG,Certified Fresh,87,185,Upright,82.0,44,161,24
+3439,USA,16235293.0,Horror,2006,Michelle Trachtenberg,84,4.6,R,Rotten,15,61,Spilled,38.0,20,9,52
+3640,USA,35374833.0,Horror,2007,Dylan McDermott,90,5.4,PG-13,Rotten,12,84,Spilled,44.0,24,10,74
+3167,USA,26873932.0,Action,2005,Ice Cube,101,4.4,R,Rotten,17,136,Spilled,32.0,35,23,113
+175,UK,3130592.0,Drama,1987,James Wilby,140,7.7,R,Fresh,90,21,Upright,87.0,7,19,2
+486,USA,192816.0,Sci-Fi,1989,Dick Durock,84,4.5,PG-13,Rotten,44,9,Spilled,28.0,0,4,5
+663,USA,17037887.0,Drama,1990,Jenny Seagrove,92,5.3,R,Rotten,22,9,Spilled,32.0,1,2,7
+3538,USA,35193167.0,Mystery,2007,Jim Carrey,101,6.4,R,Rotten,8,189,Spilled,56.0,48,15,174
+1833,USA,212267.0,Comedy,1997,Brendan Fraser,109,6.9,PG-13,Fresh,62,13,Upright,78.0,5,8,5
+3468,USA,3438735.0,Drama,2006,Drew Fuller,100,7.4,PG,Rotten,32,59,Upright,84.0,19,19,40
+5178,USA,130178411.0,Animation,2015,Noah Schnapp,88,7.1,G,Certified Fresh,87,193,Upright,76.0,43,168,25
+946,USA,9223441.0,Action,1992,Cuba Gooding Jr.,101,6.4,R,Rotten,31,13,Upright,69.0,6,4,9
+2450,USA,13103828.0,Crime,2001,Bill Paxton,100,7.3,R,Certified Fresh,74,151,Upright,78.0,40,111,40
+3458,USA,63257940.0,Comedy,2006,Tyler Perry,107,5.1,PG-13,Rotten,25,57,Upright,94.0,20,14,43
+2737,Italy,3684305.0,Comedy,2002,Roberto Benigni,108,4.2,G,Rotten,0,54,Spilled,32.0,19,0,54
+1652,USA,9255027.0,Comedy,1996,Damon Wayans,91,5.2,PG-13,Rotten,9,23,Spilled,31.0,7,2,21
+3070,France,121166.0,Crime,2004,Vahina Giocante,89,7.0,R,Fresh,68,40,Upright,77.0,15,27,13
+3599,USA,9736045.0,Drama,2007,Reese Witherspoon,122,6.8,R,Rotten,47,153,Upright,62.0,45,72,81
+156,USA,35658098.0,Comedy,1987,Mark Harmon,97,6.5,PG-13,Fresh,62,29,Spilled,58.0,5,18,11
+4124,USA,105269730.0,Action,2010,Russell Crowe,140,6.7,PG-13,Rotten,15,162,Spilled,41.0,25,24,138
+3688,USA,12550605.0,Comedy,2007,Chris Rock,94,5.5,R,Rotten,19,114,Spilled,41.0,40,22,92
+2382,France,49464.0,Biography,2000,Gérard Depardieu,103,6.6,PG-13,Rotten,31,32,Upright,61.0,11,10,22
+804,USA,14812000.0,Comedy,1991,Harley Jane Kozak,92,6.0,G,Rotten,0,14,Spilled,58.0,5,0,14
+296,USA,34603943.0,Crime,1988,Gene Hackman,128,7.8,R,Fresh,87,23,Upright,90.0,6,20,3
+517,USA,19131246.0,Biography,1989,Paul Newman,120,5.9,R,Certified Fresh,95,88,Unknown,60.47082875625534,22,84,4
+5080,USA,109767581.0,Drama,2015,Michael B. Jordan,133,7.6,PG-13,Certified Fresh,95,296,Upright,89.0,53,282,14
+3630,USA,11043445.0,Comedy,2007,Adam Brody,97,6.5,PG-13,Rotten,44,117,Spilled,52.0,39,51,66
+5196,USA,532988.0,Biography,2015,Julianne Moore,103,6.5,PG-13,Rotten,49,136,Spilled,54.0,38,66,70
+1550,USA,17300889.0,Action,1996,Billy Zane,100,4.9,PG,Rotten,42,45,Spilled,31.0,12,19,26
+2717,Ireland,4890878.0,Drama,2002,Eileen Walsh,114,7.8,R,Certified Fresh,91,149,Upright,89.0,43,135,14
+687,USA,4562778.0,Drama,1990,Prince,95,4.3,PG-13,Rotten,19,27,Spilled,40.0,10,5,22
+2923,USA,81001787.0,Drama,2004,Gena Rowlands,123,7.9,R,Fresh,67,36,Upright,67.0,17,24,12
+2349,USA,447750.0,Crime,2000,Takeshi Kitano,114,7.2,R,Rotten,47,74,Upright,79.0,22,35,39
+522,South Africa,6291444.0,Comedy,1989,N!xau,98,6.8,PG,Rotten,54,13,Upright,70.0,3,7,6
+1157,USA,21647.0,Drama,1993,Christopher Reeve,96,6.6,PG-13,Rotten,55,178,Spilled,51.0,49,98,80
+5313,USA,2141423.0,Comedy,2016,Adam Driver,118,7.4,R,Certified Fresh,96,248,Upright,71.0,44,238,10
+1338,USA,4064333.0,Action,1995,Lori Petty,104,5.3,R,Rotten,38,39,Upright,63.0,12,15,24
+1565,USA,258263.0,Drama,1996,Hedy Burress,102,6.2,R,Rotten,27,11,Upright,65.0,4,3,8
+3395,USA,18843314.0,Action,2006,John Cena,92,4.7,PG-13,Rotten,20,46,Upright,60.0,15,9,37
+1968,USA,2643689.0,Comedy,1998,Kieran Culkin,100,7.3,PG-13,Certified Fresh,75,40,Upright,79.0,7,30,10
+4991,USA,24984868.0,Action,2014,Pierce Brosnan,108,6.3,R,Rotten,34,128,Spilled,46.0,30,44,84
+446,USA,36602000.0,Comedy,1989,Tom Hanks,101,6.9,PG,Rotten,53,38,Upright,71.0,11,20,18
+4005,USA,137855863.0,Animation,2009,Jim Carrey,96,6.8,G,Fresh,100,12,Upright,74.0,0,12,0
+1612,USA,153155.0,Comedy,1996,Laura Dern,106,7.0,R,Fresh,81,26,Upright,74.0,6,21,5
+2947,USA,24006726.0,Adventure,2004,Bill Murray,119,7.3,R,Rotten,56,222,Upright,82.0,51,124,98
+5381,USA,10732841.0,Horror,2016,Kevin Bacon,92,4.4,PG-13,Rotten,3,32,Spilled,19.0,5,1,31
+2502,USA,13729742.0,Comedy,2001,Pierce Brosnan,109,6.1,R,Certified Fresh,77,116,Spilled,46.0,36,89,27
+3562,France,50648679.0,Action,2007,Milla Jovovich,94,6.3,R,Rotten,24,99,Spilled,58.0,18,24,75
+1642,USA,2002000.0,Biography,1996,Anthony Hopkins,125,6.4,R,Rotten,32,19,Upright,60.0,7,6,13
+3164,USA,74494381.0,Action,2005,Mark Wahlberg,109,6.9,R,Rotten,52,134,Upright,80.0,35,70,64
+4388,USA,6923891.0,Comedy,2011,Topher Grace,100,6.3,R,Rotten,27,113,Spilled,42.0,34,31,82
+4125,USA,118311368.0,Action,2010,Angelina Jolie,100,6.4,PG-13,Fresh,62,242,Spilled,59.0,52,151,91
+2061,USA,171091819.0,Animation,1999,Tony Goldwyn,88,7.2,PG,Rotten,20,30,Spilled,33.0,5,6,24
+2519,USA,10965209.0,Action,2001,Ryan Phillippe,105,6.1,PG-13,Rotten,24,106,Spilled,50.0,32,25,81
+3483,USA,1150403.0,Biography,2006,Toby Jones,110,7.1,R,Fresh,73,152,Upright,69.0,48,111,41
+5184,USA,240067.0,Comedy,2015,Jason Bateman,105,6.1,R,Certified Fresh,83,80,Spilled,47.0,26,66,14
+1545,USA,12782508.0,Drama,1996,Meryl Streep,98,6.7,PG-13,Certified Fresh,84,50,Upright,63.0,16,42,8
+834,UK,694438.0,Drama,1991,Steven Waddington,87,7.0,R,Fresh,100,10,Upright,76.0,1,10,0
+3035,USA,9055010.0,Comedy,2004,Katie Holmes,100,5.0,PG,Rotten,8,86,Spilled,43.0,28,7,79
+4361,USA,40962534.0,Drama,2011,Paul Giamatti,101,7.1,R,Certified Fresh,84,237,Upright,73.0,51,199,38
+3509,USA,31655091.0,Drama,2007,Freddie Highmore,114,7.5,PG,Rotten,36,125,Upright,82.0,36,45,80
+1573,New Zealand,82987.0,Comedy,2006,Oliver Driver,87,5.8,PG-13,Rotten,28,32,Upright,70.0,6,9,23
+5091,USA,53862963.0,Comedy,2015,Will Smith,105,6.6,R,Rotten,56,219,Spilled,53.0,52,123,96
+275,USA,33244684.0,Horror,1988,Catherine Hicks,87,6.6,R,Fresh,68,37,Upright,63.0,6,25,12
+4771,USA,21488481.0,Drama,2013,Sophie Nélisse,131,7.6,PG-13,Rotten,47,146,Upright,73.0,42,68,78
+4578,USA,304318.0,Action,2012,Nicolas Cage,96,5.5,NR,Fresh,67,27,Spilled,47.0,17,18,9
+5076,USA,62575678.0,Biography,2015,Johnny Depp,123,6.9,R,Certified Fresh,73,280,Upright,68.0,52,204,76
+4631,USA,53261944.0,Horror,2012,Fernanda Andrade,83,4.2,R,Rotten,6,87,Spilled,22.0,19,5,82
+745,USA,17218080.0,Action,1991,Bruce Willis,100,5.8,R,Rotten,26,34,Spilled,57.0,5,9,25
+4934,USA,14479776.0,Biography,2014,Amy Adams,106,7.0,PG-13,Fresh,72,185,Upright,68.0,41,133,52
+3000,USA,10411980.0,Family,2004,Hilary Duff,100,5.9,PG,Rotten,15,85,Upright,71.0,31,13,72
+5186,UK,1162653.0,Comedy,2015,Drew Barrymore,112,6.8,PG-13,Fresh,71,115,Upright,68.0,29,82,33
+161,USA,20763013.0,Adventure,1987,Lorraine Gary,89,2.9,PG-13,Rotten,0,35,Spilled,15.0,13,0,35
+4798,USA,30664106.0,Comedy,2013,Vince Vaughn,105,6.4,PG-13,Rotten,40,144,Spilled,47.0,36,57,87
+5362,UK,2280004.0,Action,2016,Nicholas Hoult,99,5.7,PG-13,Rotten,21,39,Spilled,35.0,6,8,31
+1004,USA,158348367.0,Drama,1993,Tom Cruise,154,6.8,R,Certified Fresh,75,55,Upright,64.0,11,41,14
+2202,USA,15593.0,Comedy,1999,Elisabeth Shue,102,5.8,PG-13,Rotten,14,22,Spilled,53.0,7,3,19
+648,USA,15379253.0,Comedy,1990,Jim Belushi,110,6.3,PG-13,Rotten,38,16,Spilled,56.0,3,6,10
+449,Ireland,14743391.0,Biography,1989,Daniel Day-Lewis,103,7.9,R,Fresh,97,36,Upright,92.0,7,35,1
+2076,USA,58220776.0,Comedy,1999,Robin Williams,132,6.8,PG,Rotten,36,96,Spilled,58.0,25,35,61
+4536,USA,85017401.0,Action,2012,Sylvester Stallone,103,6.6,R,Fresh,68,130,Upright,67.0,27,88,42
+2009,USA,870751.0,Comedy,1998,Chris Stafford,99,6.8,R,Fresh,75,16,Upright,72.0,5,12,4
+3757,USA,114053579.0,Animation,2008,John Travolta,96,6.9,PG,Certified Fresh,89,183,Upright,74.0,44,163,20
+3130,USA,179495555.0,Comedy,2005,Will Smith,118,6.6,PG-13,Fresh,68,183,Upright,62.0,38,124,59
+4421,USA,149260504.0,Animation,2011,Antonio Banderas,90,6.7,PG,Certified Fresh,85,150,Upright,67.0,29,128,22
+245,USA,25411386.0,Comedy,1987,Richard Dreyfuss,112,6.5,R,Fresh,81,21,Upright,63.0,1,17,4
+5205,USA,4265673.0,Comedy,2015,Susan Sarandon,103,6.3,PG-13,Certified Fresh,85,143,Spilled,56.0,38,121,22
+2982,USA,279261160.0,Comedy,2004,Ben Stiller,115,6.3,PG-13,Rotten,39,162,Spilled,58.0,42,63,99
+1621,USA,14551359.0,Crime,1996,Chris O'Donnell,113,6.0,NR,Rotten,36,14,Spilled,16.0,3,5,9
+482,USA,15942628.0,Action,1989,Patrick Swayze,108,5.7,R,Rotten,56,9,Spilled,44.0,0,5,4
+2033,USA,155247825.0,Action,1999,Brendan Fraser,124,7.0,NR,Fresh,93,28,Upright,72.0,5,26,2
+4219,USA,24042490.0,Fantasy,2010,Katie Holmes,99,5.6,NR,Fresh,67,6,Spilled,58.0,0,4,2
+3289,USA,32701088.0,Drama,2005,Kurt Russell,106,6.9,PG,Fresh,64,117,Upright,78.0,33,75,42
+1190,USA,19288821.0,Comedy,1994,Rick Moranis,107,6.3,PG,Rotten,36,11,Upright,63.0,1,4,7
+3125,Canada,24409722.0,Action,2005,Jennifer Garner,97,4.8,PG-13,Rotten,11,165,Spilled,29.0,42,18,147
+4580,USA,66528000.0,Action,2012,Mark Wahlberg,109,6.5,NR,Fresh,100,6,Upright,68.0,1,6,0
+2060,USA,171091819.0,Animation,1999,Tony Goldwyn,88,7.2,G,Certified Fresh,89,105,Upright,75.0,28,93,12
+4152,UK,43313890.0,Crime,2010,Mel Gibson,117,6.6,R,Rotten,56,213,Spilled,49.0,45,119,94
+1110,USA,11081586.0,Comedy,1993,Robert De Niro,97,6.2,R,Fresh,77,30,Spilled,46.0,8,23,7
+4547,Canada,31611916.0,Drama,2012,Jennifer Lawrence,101,5.6,PG-13,Rotten,12,65,Spilled,41.0,14,8,57
+872,USA,14715067.0,Drama,1992,Brendan Fraser,106,6.9,PG-13,Fresh,60,40,Upright,69.0,9,24,16
+24,USA,24159872.0,Action,1986,Louis Gossett Jr.,117,5.3,PG-13,Rotten,20,5,Spilled,56.0,1,1,4
+5113,USA,558402.0,Drama,2015,Christian Bale,118,5.7,R,Rotten,47,174,Spilled,37.0,46,81,93
+3523,USA,130164645.0,Biography,2007,Denzel Washington,157,7.8,R,Certified Fresh,80,214,Upright,87.0,54,172,42
+3637,USA,20146.0,Drama,2007,Emily Blunt,91,5.9,R,Rotten,46,24,Spilled,31.0,9,11,13
+4903,USA,17223265.0,Action,2014,Ben Barnes,102,5.5,PG-13,Rotten,11,117,Spilled,34.0,33,13,104
+3268,USA,881745.0,Horror,2005,Agnes Bruckner,87,4.7,R,Rotten,11,62,Spilled,21.0,22,7,55
+5353,USA,72622.0,Drama,2016,Rami Malek,96,5.9,NR,Fresh,72,47,Spilled,57.0,15,34,13
+4788,USA,4105.0,Drama,2013,Najarra Townsend,84,5.3,NR,Rotten,53,17,Spilled,29.0,4,9,8
+3919,USA,41596251.0,Horror,2009,Vera Farmiga,123,7.0,R,Rotten,56,153,Upright,63.0,39,85,68
+3095,USA,65111277.0,Comedy,2004,Ice Cube,106,5.7,PG-13,Fresh,69,125,Spilled,48.0,38,86,39
+776,USA,14789113.0,Drama,1991,Sally Field,116,6.2,PG-13,Rotten,50,16,Upright,71.0,3,8,8
+5316,New Zealand,5202582.0,Adventure,2016,Sam Neill,101,7.9,NR,Certified Fresh,96,193,Upright,91.0,34,186,7
+1031,USA,36300000.0,Drama,1993,Sharon Stone,107,4.9,R,Rotten,11,27,Spilled,28.0,4,3,24
+3288,USA,478070.0,Adventure,2005,Amanda Bynes,87,4.9,PG,Rotten,17,6,Unknown,60.47082875625534,0,1,5
+2125,UK,104257.0,Comedy,1999,John Simm,99,7.1,R,Rotten,59,29,Upright,89.0,9,17,12
+3737,USA,130319208.0,Action,2008,Steve Carell,110,6.5,PG-13,Rotten,50,220,Upright,67.0,46,111,109
+4500,USA,79727149.0,Comedy,2012,Johnny Depp,113,6.2,PG-13,Rotten,36,252,Spilled,46.0,51,90,162
+1722,USA,61355436.0,Action,1997,Val Kilmer,116,6.2,PG-13,Rotten,30,46,Upright,63.0,17,14,32
+2942,USA,100492203.0,Drama,2004,Hilary Swank,132,8.1,PG-13,Certified Fresh,91,268,Upright,90.0,58,243,25
+4972,USA,15600.0,Comedy,2014,Miles Teller,86,6.4,R,Rotten,37,46,Spilled,45.0,15,17,29
+309,USA,53715611.0,Action,1988,Sylvester Stallone,102,5.7,R,Rotten,38,34,Spilled,45.0,5,13,21
+3611,USA,58867694.0,Animation,2007,Shia LaBeouf,85,6.7,PG,Certified Fresh,79,147,Upright,70.0,40,116,31
+3497,USA,74283625.0,Crime,2007,Tommy Lee Jones,122,8.1,R,Certified Fresh,93,283,Upright,86.0,60,264,19
+2247,USA,44737059.0,Comedy,2000,Keanu Reeves,118,6.5,PG-13,Rotten,41,108,Upright,66.0,32,44,64
+1899,USA,70117571.0,Action,1998,Patrick Stewart,103,6.4,PG,Rotten,54,68,Spilled,44.0,15,37,31
+2525,USA,6114237.0,Drama,2001,Shane Brolly,95,6.2,R,Rotten,22,93,Spilled,41.0,29,20,73
+4285,USA,389804.0,Comedy,2010,Lena Dunham,98,6.2,NR,Certified Fresh,80,98,Spilled,54.0,32,78,20
+3544,USA,320706665.0,Animation,2007,Mike Myers,93,6.1,PG,Rotten,41,211,Spilled,52.0,50,86,125
+1591,USA,6970578.0,Comedy,1996,Jamie Lee Curtis,108,5.7,PG,Rotten,10,30,Spilled,45.0,12,3,27
+4822,USA,373375.0,Drama,2013,Nicolas Cage,117,6.9,R,Fresh,80,10,Upright,63.0,0,8,2
+2293,Australia,234259.0,Biography,2000,Eric Bana,94,7.2,R,Fresh,72,68,Upright,89.0,21,49,19
+5298,USA,34912982.0,Action,2016,Chloë Grace Moretz,112,5.2,PG-13,Rotten,15,137,Spilled,38.0,32,21,116
+4417,France,12555230.0,Drama,2011,Elizabeth Olsen,86,5.3,R,Rotten,43,133,Spilled,30.0,34,57,76
+4064,UK,166980.0,Crime,2009,Gemma Arterton,100,6.8,R,Certified Fresh,80,97,Upright,67.0,28,78,19
+4041,USA,119436770.0,Animation,2009,Will Arnett,88,5.1,PG,Rotten,22,126,Spilled,39.0,34,28,98
+4739,USA,32172757.0,Crime,2013,Rooney Mara,106,7.1,R,Certified Fresh,82,217,Upright,70.0,54,179,38
+5254,UK,3730982.0,Drama,2016,Lewis MacDougall,108,7.5,PG-13,Certified Fresh,86,257,Upright,81.0,48,220,37
+1693,USA,67127760.0,Action,1997,Pierce Brosnan,108,5.9,PG-13,Rotten,26,31,Spilled,38.0,11,8,23
+2402,USA,76631907.0,Crime,2001,Denzel Washington,122,7.7,R,Fresh,72,158,Upright,89.0,38,114,44
+2357,USA,2882062.0,Comedy,2000,Sigourney Weaver,78,6.2,PG-13,Certified Fresh,78,107,Spilled,57.0,33,83,24
+4486,USA,65001093.0,Comedy,2012,Anna Kendrick,112,7.2,PG-13,Certified Fresh,80,149,Upright,83.0,43,119,30
+2023,UK,21404.0,Crime,1998,Jude Law,98,6.3,R,Rotten,47,19,Spilled,54.0,5,9,10
+4849,USA,38361.0,Drama,2013,Robin Weigert,96,5.7,PG-13,Rotten,59,198,Upright,74.0,37,117,81
+4935,UK,92168600.0,Action,2014,Liam Neeson,106,7.0,PG-13,Fresh,61,222,Upright,63.0,46,136,86
+931,USA,22660758.0,Crime,1992,Val Kilmer,119,6.8,R,Fresh,88,17,Upright,75.0,3,15,2
+1380,USA,16115878.0,Action,1995,Christopher Walken,98,6.6,R,Rotten,43,23,Upright,64.0,2,10,13
+532,USA,270329045.0,Animation,2016,Matthew McConaughey,108,7.1,PG,Fresh,72,180,Upright,72.0,33,129,51
+604,USA,20710451.0,Drama,1990,Mel Gibson,135,6.8,PG,Fresh,74,34,Spilled,59.0,8,25,9
+5182,USA,57017904.0,Drama,2015,Sanaa Lathan,100,5.6,PG-13,Rotten,18,45,Spilled,51.0,15,8,37
+1814,USA,10005081.0,Adventure,1997,Rene Russo,84,4.8,PG,Rotten,25,20,Spilled,31.0,7,5,15
+3501,USA,47003582.0,Action,2007,Mark Wahlberg,124,7.2,R,Rotten,47,148,Upright,80.0,48,70,78
+743,USA,47624253.0,Action,1991,Wesley Snipes,97,6.6,R,Fresh,77,30,Upright,80.0,9,23,7
+1696,USA,27779888.0,Action,1997,Anthony Hopkins,117,6.9,R,Fresh,63,49,Upright,70.0,12,31,18
+4630,USA,63536011.0,Comedy,2012,Meryl Streep,100,6.3,PG-13,Certified Fresh,75,173,Spilled,55.0,49,130,43
+428,USA,71320000.0,Comedy,1989,Chevy Chase,97,7.6,PG-13,Fresh,65,37,Upright,86.0,7,24,13
+5275,USA,10164675.0,Action,2016,John Gallagher Jr.,89,6.1,R,Rotten,52,102,Spilled,40.0,18,53,49
+3740,Sweden,2122065.0,Drama,2008,Kåre Hedebrant,115,7.9,R,Certified Fresh,98,189,Upright,90.0,44,185,4
+122,USA,39487686.0,Comedy,1994,Paul Newman,110,7.4,R,Certified Fresh,91,54,Upright,81.0,18,49,5
+4172,USA,148383780.0,Comedy,2010,Ben Stiller,98,5.5,PG-13,Rotten,9,148,Spilled,34.0,39,14,134
